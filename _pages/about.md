@@ -17,7 +17,7 @@ Hung Hom, Kowloon, Hong Kong
 
 ## 📍 Contact
 
-- **Office**: Currently no. 
+- **Office**: Pao Yue-Kong Library,  The Hong Kong Polytechnic University
 - **Phone**: +852 59562906
 <!-- - **Fax**: no  -->
 - **Email**: [24048007r@connect.polyu.hk](mailto:24048007r@connect.polyu.hk)  
@@ -54,8 +54,8 @@ I welcome applicants with a strong analytical background and interest in applyin
 English requirement: *IELTS ≥ 6.5* or *TOEFL ≥ 80*  
 Consider applying via the [Hong Kong PhD Fellowship Scheme](https://www.rgc.edu.hk/hkphd) -->
 
-**Research Assistants / Associates / Fellows / Postdocs**  
-<!-- Multiple positions available. Topics include:
+<!-- **Research Assistants / Associates / Fellows / Postdocs**  
+Multiple positions available. Topics include:
 - Convex and non-convex optimization  
 - AI and machine learning  
 - Metaverse-related analysis  
