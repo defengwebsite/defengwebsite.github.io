@@ -1,0 +1,47 @@
+/* ==========================================================================
+   CREAMY GREEN THEME
+   ========================================================================== */
+
+/* Color codes used for the theme */
+$gray                       : #7c9173;  // 温和绿灰
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+$light-gray                 : #b8c9af;
+$lighter-gray               : mix(#fff, $gray, 90%);
+
+/* Color codes used for the site */
+$danger-color               : #d46a6a;   // 柔和红色警告
+$info-color                 : #5b8c5a;   // 深绿提示
+$notice-color               : #7c9173;
+$success-color              : #8fc868;   // 明亮成功绿
+$warning-color              : #f4c542;   // 奶油黄警告
+
+/* Other basic settings for the template */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Default creamy-green theme for the site */
+:root {
+    --global-base-color                 : #{$gray};
+    --global-bg-color                   : #fdfdf5;  /* 奶油白背景 */
+    --global-footer-bg-color            : #f3f5eb;
+    --global-border-color               : #{$lighter-gray};
+    --global-dark-border-color          : #b6c3a5;
+    --global-code-background-color      : #f6f9f4;
+    --global-code-text-color            : #{$darker-gray};
+    --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
+    --global-link-color                 : #6aaa64;  /* 奶绿链接 */
+    --global-link-color-hover           : mix(#000, #5b8c5a, 25%);
+    --global-link-color-visited         : mix(#fff, #5b8c5a, 25%);
+    --global-masthead-link-color        : #{$dark-gray};
+    --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);
+    --global-text-color                 : #{$dark-gray};
+    --global-text-color-light           : #{$light-gray};
+    --global-thead-color                : #{$lighter-gray};
+}
