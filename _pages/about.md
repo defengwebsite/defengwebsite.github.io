@@ -27,7 +27,7 @@ Hung Hom, Kowloon, Hong Kong
 
 ## 🎓 Education
 
-- **BSc (2024)**, Department of Mathematics, Hunnan University, China  
+- **BSc (2024)**, Department of Mathematics, Hunan University, China  
 
 ---
 
