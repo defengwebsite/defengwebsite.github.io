@@ -1,54 +1,30 @@
 ---
-permalink: /
-title: "Welcome to LU Jiawei's Academic Homepage"
-author_profile: true
----
-
----
 layout: single
-title: "About"
+title: "About me"
 permalink: /about/
 author_profile: true
 ---
 
-## 👤 Defeng Sun (孙德锋)
+## 👤 LU Jaiwei (卢佳玮)
 
-**Chair Professor**  
+**Student**  
 Department of Applied Mathematics  
 The Hong Kong Polytechnic University  
 Hung Hom, Kowloon, Hong Kong
 
-Fellow: SIAM, CSIAM, ORSC
+<!-- Fellow: SIAM, CSIAM, ORSC -->
 
 ---
 
 ## 📍 Contact
 
-- **Office**: TU 728, Yip Kit Chuen Building  
-- **Phone**: +852 2766 6935  
-- **Fax**: +852 2362 9045  
-- **Email**: [defeng.sun@polyu.edu.hk](mailto:defeng.sun@polyu.edu.hk)  
-- **Web**: [PolyU AMA Profile](https://www.polyu.edu.hk/ama/profile/dfsun)
+- **Office**: Currently no. 
+- **Phone**: +852 59562906
+<!-- - **Fax**: no  -->
+- **Email**: [24048007r@connect.polyu.hk](mailto:24048007r@connect.polyu.hk)  
+- **Web**: [Jiawei's website](https://ljw2024polyu.github.io/)
 
 ---
-
-## 🎓 Education
-
-- **BSc (1989)**, **MSc (1992)** – Department of Mathematics, [Nanjing University](https://www.nju.edu.cn), Nanjing  
-- **PhD (1995)** – [Institute of Applied Mathematics, Chinese Academy of Sciences](http://www.amss.ac.cn), Beijing  
-  *Supervisor: Professor Jiye Han (韩继业)*
-
----
-
-## 🔬 Recent Research Interests
-
-- **Convex Optimization**: Theory, Algorithms, and GPU Acceleration  
-- **Machine Learning & AI**  
-- **Variational Convexity and Local Monotonicity Analysis**  
-- **Statistical Optimization and Learning**
-
-
-
 
 ## 🎓 Education
 

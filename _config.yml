@@ -29,7 +29,7 @@ author:
   location         : "Hong Kong, China" # e.g. "New York, NY"
   employer         : "PolyU, Hong Kong" # e.g. "Stanford University"
   uri              : # URL
-  email            : "24048007r@connect.polyu.hk" 
+  email            : #"24048007r@connect.polyu.hk" 
 
   # Academic websites
   academia         : # URL
