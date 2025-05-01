@@ -1,7 +1,6 @@
 ---
-layout: single
-title: "About me"
-permalink: /about/
+permalink: /
+title: "Welcome to LU Jiawei's Academic Homepage"
 author_profile: true
 ---
 
