@@ -11,9 +11,9 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Jiawei's Academic Page" # the title of your site, e.g. "My Academic Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jiawei LU" # the name of your site, e.g. "Jiawei LU"
 description              : &description "Academic Page" # a short description of your site, e.g. "A website about my research and teaching"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://ljw2024polyu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ljw2024polyu/ljw2024polyu.github.io"
 
@@ -22,23 +22,23 @@ repository               : "ljw2024polyu/ljw2024polyu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Picture-myself.jpg" 
+  avatar           : "Picture-myself.jpg"
   name             : "Jiawei LU"
   pronouns         : # example: "she/her"  
   bio              : "PHD student in the Department of Applied Mathematics at PolyU, Hong Kong."
   location         : "Hong Kong" # e.g. "New York, NY"
-  employer         : "The Hong Kong Polytechnic University"
+  employer         : "PolyU, Hong Kong" # e.g. "Stanford University"
   uri              : # URL
   email            : "24048007r@connect.polyu.hk" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL - Update with the correct link to your profile
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0001-1366-4290"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -46,12 +46,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/ljw2024polyu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #  Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
