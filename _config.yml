@@ -26,7 +26,7 @@ author:
   name             : "Jiawei LU"
   pronouns         : # example: "she/her"  
   bio              : "PHD student in the Department of Applied Mathematics at PolyU, Hong Kong."
-  location         : "Hong Kong" # e.g. "New York, NY"
+  location         : "Hong Kong, China" # e.g. "New York, NY"
   employer         : "PolyU, Hong Kong" # e.g. "Stanford University"
   uri              : # URL
   email            : "24048007r@connect.polyu.hk" 
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/ljw2024polyu"
+  github           : "ljw2024polyu" # Username - Update with your username on the site
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
