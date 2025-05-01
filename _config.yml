@@ -22,10 +22,10 @@ repository               : "ljw2024polyu/ljw2024polyu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Picture-myself.jpg"
+  avatar           : "myself.jpg"
   name             : "Jiawei LU"
   pronouns         : # example: "she/her"  
-  bio              : "PHD student in the Department of Applied Mathematics at PolyU, Hong Kong."
+  bio              : "PhD student in the Department of Applied Mathematics at PolyU, Hong Kong."
   location         : "Hong Kong, China" # e.g. "New York, NY"
   employer         : "PolyU, Hong Kong" # e.g. "Stanford University"
   uri              : # URL

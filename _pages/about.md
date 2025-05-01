@@ -1,5 +1,83 @@
 ---
 permalink: /
+title: "Welcome to [Your Name]'s Academic Homepage"
+author_profile: true
+---
+
+## 🎓 Education
+
+- **BSc (1989)**, **MSc (1992)**, Department of Mathematics, Nanjing University, China  
+- **PhD (1995)**, Institute of Applied Mathematics, Chinese Academy of Sciences, Beijing  
+  *Supervisor: Professor Jiye Han (韩继业)*
+
+---
+
+## 🔬 Recent Research Interests
+
+- Convex Optimization: Theory, Algorithms, and GPU Acceleration  
+- Machine Learning & Artificial Intelligence  
+- Variational Convexity and Local Monotonicity Analysis  
+- Statistical Optimization and Learning  
+
+---
+
+## 📚 Teaching
+
+**AMA615 – Nonlinear Optimization Methods**  
+*Semester 1, 2020/2021*  
+Lecture times: Wednesday (11:30–12:30), Friday (11:30–13:30)
+
+---
+
+## 📢 Recruitments
+
+**PhD Students**  
+I welcome applicants with a strong analytical background and interest in applying mathematics and AI to real-world problems.  
+English requirement: *IELTS ≥ 6.5* or *TOEFL ≥ 80*  
+Consider applying via the [Hong Kong PhD Fellowship Scheme](https://www.rgc.edu.hk/hkphd)
+
+**Research Assistants / Associates / Fellows / Postdocs**  
+Multiple positions available. Topics include:
+- Convex and non-convex optimization  
+- AI and machine learning  
+- Metaverse-related analysis  
+- Variational convexity  
+- Mixed-integer programming  
+
+Priority will be given to those eager to explore and understand AI technologies.
+
+---
+
+## 🧩 Professional Activities
+
+- **Vice President**, Operations Research Society of China *(from Nov 2024)*  
+- **Steering Committee Member**, ICCOPT 2025 (Mathematical Optimization Society)  
+- **President**, The Hong Kong Mathematical Society *(May 2020 – May 2024)*  
+- **Co-Chair**, SIAM Conference on Optimization (OP20), PolyU *(rescheduled: [OP21](https://www.siam.org/conferences/cm/conference/op21))*
+
+**Program Committee Member**:
+- ICCOPT 2019, Berlin *(Aug 5–8, 2019)*  
+- ICCOPT 2016, Tokyo *(Aug 6–11, 2016)*  
+
+**Editorial Roles**:
+- *Mathematical Programming* (Series A: Aug 2007–; Series B: Jan 2014–Dec 2017)  
+- *SIAM Journal on Optimization* *(Jan 2012–)*  
+- *Journal of the Operations Research Society of China* *(2012)*  
+- *Journal of Computational Mathematics* *(2017–)*  
+- *Science China Mathematics* *(Jan 2018–)*  
+- *Journal of Optimization Theory and Applications* *(2021–)*  
+- *Asia-Pacific Journal of Operational Research*  
+  - Advisory Committee *(Jan 2014–)*  
+  - Editor-in-Chief *(Oct 2010–Dec 2013)*
+
+
+
+
+
+
+<!-- before -->
+<!-- ---
+permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
@@ -46,4 +124,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
