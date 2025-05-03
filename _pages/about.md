@@ -27,7 +27,7 @@ Hung Hom, Kowloon, Hong Kong -->
 - **Office**:  TU 728, Yip Kit Chuen Building
 - **Phone**: +852 2766 6935
 - **Fax**: +852 2362 9045
-  **Email**: [defeng.sun@polyu.edu.hk](mailto:defeng.sun@polyu.edu.hk)  
+- **Email**: [defeng.sun@polyu.edu.hk](mailto:defeng.sun@polyu.edu.hk)  
 - **Web**: [Defeng's website](https://ljw2024polyu.github.io/) 
 
 <!-- ## Contact
