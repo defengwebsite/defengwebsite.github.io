@@ -4,7 +4,7 @@ title: "Welcome to LU Jiawei's Academic Homepage"
 author_profile: true
 ---
 
-## 👤 LU Jaiwei (卢佳玮)
+## LU Jaiwei (卢佳玮)
 
 **Student**  
 Department of Applied Mathematics  
@@ -15,7 +15,7 @@ Hung Hom, Kowloon, Hong Kong
 
 ---
 
-## 📍 Contact
+## Contact
 
 - **Office**: Pao Yue-Kong Library,  The Hong Kong Polytechnic University
 - **Phone**: +852 59562906
@@ -25,13 +25,13 @@ Hung Hom, Kowloon, Hong Kong
 
 ---
 
-## 🎓 Education
+## Education
 
 - **BSc (2024)**, Department of Mathematics, Hunan University, China  
 
 ---
 
-## 🔬 Recent Research Interests
+## Recent Research Interests
 
 - Convex Optimization: Theory & Algorithms  
 - Machine Learning & Reinforcement learning   
@@ -39,7 +39,7 @@ Hung Hom, Kowloon, Hong Kong
 
 ---
 
-## 📚 Teaching
+## Teaching
 
 <!-- **AMA615 – Nonlinear Optimization Methods**  
 *Semester 1, 2020/2021*  
@@ -47,7 +47,7 @@ Lecture times: Wednesday (11:30–12:30), Friday (11:30–13:30) -->
 
 ---
 
-## 📢 Recruitments
+## Recruitments
 
 <!-- **PhD Students**  
 I welcome applicants with a strong analytical background and interest in applying mathematics and AI to real-world problems.  
@@ -66,7 +66,7 @@ Priority will be given to those eager to explore and understand AI technologies.
 
 ---
 
-## 🧩 Professional Activities
+## Professional Activities
 
 <!-- - **Vice President**, Operations Research Society of China *(from Nov 2024)*  
 - **Steering Committee Member**, ICCOPT 2025 (Mathematical Optimization Society)  
