@@ -1,6 +1,6 @@
 ---
 layout: single
 title: "Professional Activities"
-permalink: /Professional Activities/
+permalink: /professional-activities/
 author_profile: true
 ---

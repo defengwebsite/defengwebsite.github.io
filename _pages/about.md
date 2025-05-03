@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Defeng's Academic Homepage"
+title: "Welcome to Defeng Sun's Academic Homepage"
 author_profile: true
 ---
 
@@ -8,9 +8,9 @@ author_profile: true
 
 **Chair Professor**
 
-Department of Applied Mathematics
-The Hong Kong Polytechnic University 
-Hung Hom, Kowloon, Hong Kong
+Department of Applied Mathematics  
+The Hong Kong Polytechnic University   
+Hung Hom, Kowloon, Hong Kong  
 Fellow:
 SIAM, CSIAM, ORSC
 <!-- **Student**  
