@@ -1,15 +1,21 @@
 ---
 permalink: /
-title: "Welcome to LU Jiawei's Academic Homepage"
+title: "Welcome to Defeng's Academic Homepage"
 author_profile: true
 ---
 
-## LU Jaiwei (卢佳玮)
+## Defeng Sun (孙德锋)
 
-**Student**  
+**Chair Professor**
+Department of Applied Mathematics
+The Hong Kong Polytechnic University 
+Hung Hom, Kowloon, Hong Kong
+Fellow:
+SIAM, CSIAM, ORSC
+<!-- **Student**  
 Department of Applied Mathematics  
 The Hong Kong Polytechnic University  
-Hung Hom, Kowloon, Hong Kong
+Hung Hom, Kowloon, Hong Kong -->
 
 <!-- Fellow: SIAM, CSIAM, ORSC -->
 
@@ -17,44 +23,57 @@ Hung Hom, Kowloon, Hong Kong
 
 ## Contact
 
+- **Office**:  TU 728, Yip Kit Chuen Building
+- **Phone**: +852 2766 6935
+- **Fax**: +852 2362 9045
+  **Email**: [defeng.sun@polyu.edu.hk](mailto:defeng.sun@polyu.edu.hk)  
+- **Web**: [Defeng's website](https://ljw2024polyu.github.io/) 
+
+<!-- ## Contact
+
 - **Office**: Pao Yue-Kong Library,  The Hong Kong Polytechnic University
 - **Phone**: +852 59562906
 <!-- - **Fax**: no  -->
-- **Email**: [24048007r@connect.polyu.hk](mailto:24048007r@connect.polyu.hk)  
-- **Web**: [Jiawei's website](https://ljw2024polyu.github.io/)
+<!-- - **Email**: [24048007r@connect.polyu.hk](mailto:24048007r@connect.polyu.hk)  
+- **Web**: [Jiawei's website](https://ljw2024polyu.github.io/) --> 
 
 ---
 
 ## Education
 
-- **BSc (2024)**, Department of Mathematics, Hunan University, China  
+- BSc (1989), MSc (1992) both from Department of Mathematics,  Nanjing University, Nanjing
+
+PhD (1995) from Institute of Applied Mathematics, Chinese Academy of Sciences, Beijing [Supervisor: Professor Jiye Han (韩继业)]
+
+
 
 ---
 
 ## Recent Research Interests
 
-- Convex Optimization: Theory & Algorithms  
-- Machine Learning & Reinforcement learning   
-- Large language model & AI
+-Convex Optimization: Theory, Algorithms, and GPU Acceleration
+-Machine Learning & AI
+-Variational Convexity and Local Monotonicity Analysis
+-Statistical Optimization and Learning
 
 ---
 
 ## Teaching
 
-<!-- **AMA615 – Nonlinear Optimization Methods**  
+**AMA615 – Nonlinear Optimization Methods**  
 *Semester 1, 2020/2021*  
-Lecture times: Wednesday (11:30–12:30), Friday (11:30–13:30) -->
+Lecture times: Wednesday (11:30–12:30), Friday (11:30–13:30)
 
 ---
 
 ## Recruitments
 
-<!-- **PhD Students**  
+**PhD Students**  
 I welcome applicants with a strong analytical background and interest in applying mathematics and AI to real-world problems.  
 English requirement: *IELTS ≥ 6.5* or *TOEFL ≥ 80*  
-Consider applying via the [Hong Kong PhD Fellowship Scheme](https://www.rgc.edu.hk/hkphd) -->
+Consider applying via the [Hong Kong PhD Fellowship Scheme](https://www.rgc.edu.hk/hkphd)
 
-<!-- **Research Assistants / Associates / Fellows / Postdocs**  
+**Research Assistants / Associates / Fellows / Postdocs**  
 Multiple positions available. Topics include:
 - Convex and non-convex optimization  
 - AI and machine learning  
@@ -62,13 +81,13 @@ Multiple positions available. Topics include:
 - Variational convexity  
 - Mixed-integer programming  
 
-Priority will be given to those eager to explore and understand AI technologies. -->
+Priority will be given to those eager to explore and understand AI technologies.
 
 ---
 
 ## Professional Activities
 
-<!-- - **Vice President**, Operations Research Society of China *(from Nov 2024)*  
+- **Vice President**, Operations Research Society of China *(from Nov 2024)*  
 - **Steering Committee Member**, ICCOPT 2025 (Mathematical Optimization Society)  
 - **President**, The Hong Kong Mathematical Society *(May 2020 – May 2024)*  
 - **Co-Chair**, SIAM Conference on Optimization (OP20), PolyU *(rescheduled: [OP21](https://www.siam.org/conferences/cm/conference/op21))*
@@ -86,7 +105,7 @@ Priority will be given to those eager to explore and understand AI technologies.
 - *Journal of Optimization Theory and Applications* *(2021–)*  
 - *Asia-Pacific Journal of Operational Research*  
   - Advisory Committee *(Jan 2014–)*  
-  - Editor-in-Chief *(Oct 2010–Dec 2013)* -->
+  - Editor-in-Chief *(Oct 2010–Dec 2013)*
 
 
 
