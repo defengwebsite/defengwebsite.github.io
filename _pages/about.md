@@ -41,9 +41,9 @@ Hung Hom, Kowloon, Hong Kong -->
 
 ## Education
 
-- BSc (1989), MSc (1992) both from Department of Mathematics,  Nanjing University, Nanjing
+- **BSc (1989)**, **MSc (1992)** both from Department of Mathematics,  Nanjing University, Nanjing
 
-PhD (1995) from Institute of Applied Mathematics, Chinese Academy of Sciences, Beijing [Supervisor: Professor Jiye Han (韩继业)]
+-**PhD (1995)** from Institute of Applied Mathematics, Chinese Academy of Sciences, Beijing [Supervisor: Professor Jiye Han (韩继业)]
 
 
 
@@ -87,7 +87,7 @@ Priority will be given to those eager to explore and understand AI technologies.
 
 ## Professional Activities
 
-- **Vice President**, Operations Research Society of China *(from Nov 2024)*  
+<!-- - **Vice President**, Operations Research Society of China *(from Nov 2024)*  
 - **Steering Committee Member**, ICCOPT 2025 (Mathematical Optimization Society)  
 - **President**, The Hong Kong Mathematical Society *(May 2020 – May 2024)*  
 - **Co-Chair**, SIAM Conference on Optimization (OP20), PolyU *(rescheduled: [OP21](https://www.siam.org/conferences/cm/conference/op21))*
@@ -105,7 +105,7 @@ Priority will be given to those eager to explore and understand AI technologies.
 - *Journal of Optimization Theory and Applications* *(2021–)*  
 - *Asia-Pacific Journal of Operational Research*  
   - Advisory Committee *(Jan 2014–)*  
-  - Editor-in-Chief *(Oct 2010–Dec 2013)*
+  - Editor-in-Chief *(Oct 2010–Dec 2013)* -->
 
 
 

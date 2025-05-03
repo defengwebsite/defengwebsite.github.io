@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jiawei's Academic Page" # the title of your site, e.g. "My Academic Page"
+title                    : "Defeng's Academic Page" # the title of your site, e.g. "My Academic Page"
 title_separator          : "-"
-name                     : &name "Jiawei LU" # the name of your site, e.g. "Jiawei LU"
+name                     : &name "Defeng Sun" # the name of your site, e.g. "Jiawei LU"
 description              : &description "Academic Page" # a short description of your site, e.g. "A website about my research and teaching"
 url                      : https://ljw2024polyu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,10 +22,10 @@ repository               : "ljw2024polyu/ljw2024polyu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myself.jpg"
-  name             : "Jiawei LU"
+  avatar           : #"myself.jpg"
+  name             : "Defeng Sun"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in the Department of Applied Mathematics at PolyU, Hong Kong."
+  bio              : #"PhD student in the Department of Applied Mathematics at PolyU, Hong Kong."
   location         : "Hong Kong, China" # e.g. "New York, NY"
   employer         : "PolyU, Hong Kong" # e.g. "Stanford University"
   uri              : # URL
