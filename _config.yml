@@ -22,7 +22,7 @@ repository               : "ljw2024polyu/ljw2024polyu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"myself.jpg"
+  avatar           : "defeng.jpg"
   name             : "Defeng Sun"
   pronouns         : # example: "she/her"  
   bio              : #"PhD student in the Department of Applied Mathematics at PolyU, Hong Kong."
