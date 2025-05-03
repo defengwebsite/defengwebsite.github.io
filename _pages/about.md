@@ -44,7 +44,7 @@ Hung Hom, Kowloon, Hong Kong -->
 
 - **BSc (1989)**, **MSc (1992)** both from Department of Mathematics,  Nanjing University, Nanjing
 
--**PhD (1995)** from Institute of Applied Mathematics, Chinese Academy of Sciences, Beijing [Supervisor: Professor Jiye Han (韩继业)]
+- **PhD (1995)** from Institute of Applied Mathematics, Chinese Academy of Sciences, Beijing [Supervisor: Professor Jiye Han (韩继业)]
 
 
 
