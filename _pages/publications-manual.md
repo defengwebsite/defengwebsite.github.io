@@ -7,7 +7,9 @@ author_profile: true
 
 ## 📝 2025
 
-- **Liang Chen**, Ruoning Chen, Defeng Sun, and **Liping Zhang**, “*Equivalent characterizations of the Aubin property for nonlinear semidefinite programming*”, _Mathematical Programming_, in print, arXiv:2408.08232 (Aug 2024).  
+- **Liang Chen**, Ruoning Chen, Defeng Sun, and **Liping Zhang**, 
+  “[**Equivalent characterizations of the Aubin property**](https://arxiv.org/abs/2408.08232)”, 
+  _Mathematical Programming_, in print. [arXiv:2408.08232](https://arxiv.org/abs/2408.08232) 
 - Guojun Zhang, Zhexuan Gu, **Yancheng Yuan**, and Defeng Sun, “*HOT: An Efficient Halpern Accelerating Algorithm for Optimal Transport Problems*”, _IEEE TPAMI_, in print, arXiv:2408.00598 (Aug 2024).  
 - **Yancheng Yuan**, Meixia Lin, Defeng Sun, and Kim-Chuan Toh, “*Adaptive sieving: A dimension reduction technique for sparse optimization problems*”, _Mathematical Programming Computation_, in print, arXiv:2306.17369.
 
