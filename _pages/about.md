@@ -69,24 +69,15 @@ Lecture times: Wednesday (11:30–12:30), Friday (11:30–13:30)
 
 ## Recruitments
 
-**PhD Students**  
-I welcome applicants with a strong analytical background and interest in applying mathematics and AI to real-world problems.  
-English requirement: *IELTS ≥ 6.5* or *TOEFL ≥ 80*  
-Consider applying via the [Hong Kong PhD Fellowship Scheme](https://www.rgc.edu.hk/hkphd)
+- **PhD Students**  
+I am particularly interested in students who have solid analytical foundation and are willing to use applied mathematics/AI  techniques to tackle real-world problems.  Drop me an email to request for more details. **English requirement** for PhD students (with or without a master degree): at least IELTS 6.5 or TOEFL 80.  Consider applying via the [Hong Kong PhD Fellowship Scheme](https://www.polyu.edu.hk/rio/)
 
-**Research Assistants / Associates / Fellows / Postdocs**  
-Multiple positions available. Topics include:
-- Convex and non-convex optimization  
-- AI and machine learning  
-- Metaverse-related analysis  
-- Variational convexity  
-- Mixed-integer programming  
-
-Priority will be given to those eager to explore and understand AI technologies.
+- **Research Assistants / Associates / Fellows / Postdocs**  
+ <span style="color:red">multiple positions are available</span>; working on various projects concerning convex and non-convex optimization, AI and machine learning, metaverse, variational convexity/analysis and mixed integer programming. Priority will be given to those who are interested in learning and understanding AI technologies. 
 
 ---
 
-## Professional Activities
+<!-- ## Professional Activities -->
 
 <!-- - **Vice President**, Operations Research Society of China *(from Nov 2024)*  
 - **Steering Committee Member**, ICCOPT 2025 (Mathematical Optimization Society)  
