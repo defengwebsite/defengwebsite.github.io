@@ -10,6 +10,7 @@ author_profile: true
 - The 2025 ICCOPT Steering Committee of the Mathematical Optimization Society (MOS).
 - President, [The Hong Kong Mathematical Society](https://www.math.hku.hk/HKMS/) (May 2020—May 2024).
 - Organizing Committee Co-Chair and Local Organizing Committee Co-Chair, “[SIAM Conference on Optimization (OP20)](https://www.polyu.edu.hk/ama/events/conference/op20/en/)”, 
+
   The Hong Kong Polytechnic University, Hong Kong,  May 26-29, 2020. Rescheduled and Relocated https://www.siam.org/conferences/cm/conference/op21.
 
 - Program Committee Member, “[The Sixth International Conference on Continuous Optimization (ICCOPT 2019)](https://iccopt2019.berlin/)”, Berlin, August 5-8, 2019.
