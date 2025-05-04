@@ -1,6 +1,9 @@
 ---
 layout: single
-title: "Codes"
+title: "Codes in Matlab and others"
 permalink: /Codes/
 author_profile: true
 ---
+
+**Codes for nearest (covariance) correlation matrix problems**
+- Codes for the Nearest Correlation Matrix problem (the problem was initially introduced by Prof. [Nick Higham](https://www.maths.manchester.ac.uk/~higham/)):  <a href="files/CorrelationMatrix.m" download>CorrelationMatrix.m</a> is a Matlab code written for computing the nearest correlation matrix problem (first uploaded in August 2006; last updated on August 30, 2019). This code should be good enough for most Matlab users.  If your Matlab version is very low and you really need a faster code, you can download mexeig.mexw64 (for win64 operating system) and if use win32 or Linux system, you need to download the installmex file installmex.m and the c-file mexeig.c by running the installmex.m first. For a randomly generated  3,000 by 3,000 pseudo correlation matrix (the code is insensitive to input data), the code needs 24 seconds to reach a solution with the relative duality gap less than 1.0e-3 after 3 iterations and 43 seconds  with the relative duality gap less than 1.0e-10 after 6 iterations in my Dell Desktop with Intel (R) Core i7 processor and for an invalid 10,000 by 10,000 pseudo correlation matrix, the code needs 15 minutes to reach a solution with the relative duality gap less than 1.0e-4 after 4 iterations and 24 minutes with the relative duality gap less than 1.0e-12 after 7 iterations. For practitioners, you may set the stopping criterion (relative duality gap) to stay between 1.0e-1 and 1.0e-3 to run the code (typically, 1 to 3 iterations). If you need a C/C++ code, download main.c and main.h, which were written by Pawel Zaczkowski under a summer research project. If you are a client to The Numerical Algorithms Group (NAG), you may also enjoy their commercialized implementations. The code in R CorrelationMatrix.R was written by Ying Cui (last updated on August 31, 2019; for efficiency, please use Microsoft R open) and the code in Python CorrelationMatrix.py was written by Yancheng Yuan (last updated on May 11, 2017), respectively.
