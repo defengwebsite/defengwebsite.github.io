@@ -43,3 +43,28 @@ author_profile: true
 - <a href="/files/CorMatHdm_general.m" download>CorMatHdm_general.m</a> Computing the **H-weighted Nearest Correlation Matrix with fixed elements and lower and upper bounds** [H should not have too many zero elements for better numerical performance; otherwise, see CaliMatHdm] Testing example: <a href="/files/testCorMatHdm_general.m" download>testCorMatHdm_general.m</a> (uploaded on September 14, 2009).
 
 - <a href="/files/CaliMatHdm.zip" download>CaliMatHdm.zip</a> Calibrating the **H-weighted Nearest Covariance Matrix** [H is allowed to have a large number of zero elements] (uploaded in April 2010).
+
+--
+
+## Codes under the Statistical Optimization (<span style="color:red">StaOpt</span>) Project
+
+- [SuiteLasso: a MATLAB suite for regression problems with generalized Lasso regularizers (GitHub)](https://github.com/MatOpt/SuiteLasso) [last updated in April 2021 with all source codes available]. [See the introduction on how to use it](https://github.com/MatOpt/SuiteLasso/blob/main/README.txt).
+
+- [Square_Root_PMM](https://github.com/StatisticsLearningOPT/square_root_PMM): [A MATLAB software for square-root regression problems (GitHub)](https://github.com/StatisticsLearningOPT/square_root_PMM/blob/main/README.txt) [Last updated in January 2021]. Copyright (c) 2021 by Peipei Tang, Chengjing Wang, Defeng Sun, and Kim-Chuan Toh. This is a software package for solving the square-root regression problem:         min{ \|X \beta - b \|_2+\lambda p(\beta) - q(\beta)}. For the details of the software, please check the following paper:
+
+  [Peipei Tang, Chengjing Wang, Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/),  “[A sparse semismooth Newton based proximal majorization-minimization algorithm for nonconvex square-root-loss regression problems](/files/19-247_Published.pdf)”, [Journal of Machine Learning Research](https://jmlr.org/papers/v21/19-247.html) 21(226):1--38, 2020.]
+
+- <a href="/files/ConvexClustering.zip" download>ConvexClustering</a>: [a MATLAB package for convex clustering](https://blog.nus.edu.sg/mattohkc/softwares/convexclustering/) [last updated in June 2021]. [See the introduction on how to use it](https://blog.nus.edu.sg/mattohkc/softwares/convexclustering/).
+
+--
+
+## Codes for rank constrained problems
+- <a href="/files/Rank_CaliMat.zip" download>Rank_CaliMat.zip</a> Calibrating the **Nearest Correlation Matrix with Rank Constraints** (uploaded in April 2010).
+
+- <a href="/files/Rank_CaliMatHdm.zip" download>Rank_CaliMatHdm.zip</a> Calibrating the **H-weighted Nearest Correlation Matrix with Rank Constraints** (uploaded in April 2010; last updated in October 2010 by including the refined Major codes).
+
+--
+
+## Codes for other problems
+
+- <a href="/files/IQEP_Newton.m" download>IQEP_Newton.m</a> Computing the Inverse Quadratic Eigenvalue Problems Testing example: <a href="/files/testIQEP_Newton.m" download>testIQEP_Newton.m</a> (uploaded in March 2008; last updated on July 15, 2016 by Ying Cui ([cuiying@u.nus.edu](mailto:cuiying@u.nus.edu))).
