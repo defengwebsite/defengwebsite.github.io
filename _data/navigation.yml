@@ -24,8 +24,8 @@ main:
   - title: "Technical Reports"
     url: /Technical Reports/    
 
-  #- title: "Publications"
-  #  url: /publications_1/
+  - title: "Publications"
+    url: /publications_1/
 
   #- title: "Publications"
   #  url: /publications/
