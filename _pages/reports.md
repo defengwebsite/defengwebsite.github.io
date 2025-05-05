@@ -28,7 +28,7 @@ author_profile: true
 
 - Maojun Sun, Ruijian Han, Binyan Jiang, Houduo Qi, Defeng Sun, Yancheng Yuan and Jian Huang, “[LAMBDA: A Large Model Based Data Agent](/files/2407.17535v2.pdf)”, arXiv 2407.17535 (July 2024; in Revision).
 
-- Kaihuang Chen, Defeng Sun, [Yancheng Yuan](https://www.polyu.edu.hk/ama/people/academic-staff/dr-yuan-yancheng/?sc_lang=en), Guojun Zhang, and [Xinyuan Zhao](https://scholar.google.com/citations?user=nFG8lEYAAAAJ&hl=en), “[HPR-LP: An implementation of an HPR method for solving linear programming](/files/2408.12179v2.pdf)”, arXiv:2408.12179 (August 2024).
+- Kaihuang Chen, Defeng Sun, [Yancheng Yuan](https://www.polyu.edu.hk/ama/people/academic-staff/dr-yuan-yancheng/?sc_lang=en), Guojun Zhang, and [Xinyuan Zhao](https://scholar.google.com/citations?user=nFG8lEYAAAAJ&hl=en), “[**HPR-LP: An implementation of an HPR method for solving linear programming**](/files/2408.12179v2.pdf)”, arXiv:2408.12179 (August 2024).
 
 - [Ying Cui](https://sites.google.com/site/optyingcui/), [Tim Hoheisel](https://www.math.mcgill.ca/hoheisel/), [Tran TA Nghia](https://sites.google.com/site/ttanghia/), and Defeng Sun, “[Lipschitz stability of least-squares problems regularized by functions with $C^2$-cone reducible conjugates](/files/2409.13118v1.pdf)”, arXiv:2409.13118 (September 2024).
 
@@ -36,6 +36,6 @@ author_profile: true
 
 - Can Wu, Dong-Hui Li, Defeng Sun, “[Support matrix machine: exploring sample sparsity, low rank, and adaptive sieving in high-performance computing](/files/2412.08023v1.pdf)”, arXiv:2412.08023 (December 2024).
 
-- Kaihuang Chen, Defeng Sun, [Yancheng Yuan](https://www.polyu.edu.hk/ama/people/academic-staff/dr-yuan-yancheng/?sc_lang=en), Guojun Zhang, and [Xinyuan Zhao](https://scholar.google.com/citations?user=nFG8lEYAAAAJ&hl=en), “[Peaceman-Rachford splitting method converges ergodically for solving convex optimization problems](/files/2501.07807v1.pdf)”, arXiv:2501.07807 (January 2025).
+- Kaihuang Chen, Defeng Sun, [Yancheng Yuan](https://www.polyu.edu.hk/ama/people/academic-staff/dr-yuan-yancheng/?sc_lang=en), Guojun Zhang, and [Xinyuan Zhao](https://scholar.google.com/citations?user=nFG8lEYAAAAJ&hl=en), “[**Peaceman-Rachford splitting method converges ergodically for solving convex optimization problems**](/files/2501.07807v1.pdf)”, arXiv:2501.07807 (January 2025).
 
 - Yuling Jiao, Wensen Ma, Defeng Sun, Hansheng Wang, and Yang Wang, “[Distribution Matching for Self-Supervised Transfer Learning](/files/2502.14424v1.pdf)”, arXiv:2502.14424 (February 2025).
