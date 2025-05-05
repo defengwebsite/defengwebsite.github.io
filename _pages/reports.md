@@ -32,7 +32,7 @@ author_profile: true
 
 - [Ying Cui](https://sites.google.com/site/optyingcui/), [Tim Hoheisel](https://www.math.mcgill.ca/hoheisel/), [Tran TA Nghia](https://sites.google.com/site/ttanghia/), and Defeng Sun, “[Lipschitz stability of least-squares problems regularized by functions with $C^2$-cone reducible conjugates](/files/2409.13118v1.pdf)”, arXiv:2409.13118 (September 2024).
 
-Xiaoyu Zhang, Di Wang, Guodong Li, and Defeng Sun, “[Robust and optimal tensor estimation via robust gradient descent](/files/2412.04773v1.pdf)”, arXiv:2412.04773 (November 2024).
+- Xiaoyu Zhang, Di Wang, Guodong Li, and Defeng Sun, “[Robust and optimal tensor estimation via robust gradient descent](/files/2412.04773v1.pdf)”, arXiv:2412.04773 (November 2024).
 
 - Can Wu, Dong-Hui Li, Defeng Sun, “[Support matrix machine: exploring sample sparsity, low rank, and adaptive sieving in high-performance computing](/files/2412.08023v1.pdf)”, arXiv:2412.08023 (December 2024).
 

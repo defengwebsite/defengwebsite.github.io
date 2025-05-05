@@ -77,6 +77,8 @@ I am particularly interested in students who have solid analytical foundation an
 
 ---
 
+Return to: [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/),  [Faculty of Computer and Mathematical Sciences](https://www.polyu.edu.hk/fcms/?sc_lang=en), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/)
+
 <!-- ## Professional Activities -->
 
 <!-- - **Vice President**, Operations Research Society of China *(from Nov 2024)*  
