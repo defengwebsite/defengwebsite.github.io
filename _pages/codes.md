@@ -18,6 +18,7 @@ author_profile: true
 - <a href="/files/CaliMatHdm.zip" download>CaliMatHdm.zip</a> Calibrating the **H-weighted Nearest Covariance Matrix** [H is allowed to have a large number of zero elements] (uploaded in April 2010).
 - <a href="/files/Rank_CaliMat.zip" download>Rank_CaliMat.zip</a> Calibrating the **Nearest Correlation Matrix with Rank Constraints** (uploaded in April 2010).
 - <a href="/files/Rank_CaliMatHdm.zip" download>Rank_CaliMatHdm.zip</a> Calibrating the **H-weighted Nearest Correlation Matrix with Rank Constraints** (uploaded in April 2010; last updated in October 2010 by including the refined Major codes).
+
 ---
 
 ## Codes under the Matrix Optimization (<span style="color:red">MatOpt</span>) Project
@@ -37,4 +38,8 @@ author_profile: true
 
   [[Xinyuan Zhao](https://scholar.google.com/citations?user=nFG8lEYAAAAJ&hl=en), D.F. Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), [A Newton-CG augmented Lagrangian method for semidefinite programming](/files/NewtonCGAugLag.pdf), SIAM Journal on Optimization, 20 (2010), pp. 1737--1765.]
 
-- 
+- **"Solving log-determinant optimization problems by a Newton-CG proximal point algorithm"**. See the brief user's guide [logdet-0-guide.pdf](/files/logdet-0-guide.pdf).
+
+- <a href="/files/CorMatHdm_general.m" download>CorMatHdm_general.m</a> Computing the **H-weighted Nearest Correlation Matrix with fixed elements and lower and upper bounds** [H should not have too many zero elements for better numerical performance; otherwise, see CaliMatHdm] Testing example: <a href="/files/testCorMatHdm_general.m" download>testCorMatHdm_general.m</a> (uploaded on September 14, 2009).
+
+- <a href="/files/CaliMatHdm.zip" download>CaliMatHdm.zip</a> Calibrating the **H-weighted Nearest Covariance Matrix** [H is allowed to have a large number of zero elements] (uploaded in April 2010).
