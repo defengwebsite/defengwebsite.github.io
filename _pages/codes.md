@@ -44,7 +44,7 @@ author_profile: true
 
 - <a href="/files/CaliMatHdm.zip" download>CaliMatHdm.zip</a> Calibrating the **H-weighted Nearest Covariance Matrix** [H is allowed to have a large number of zero elements] (uploaded in April 2010).
 
---
+---
 
 ## Codes under the Statistical Optimization (<span style="color:red">StaOpt</span>) Project
 
@@ -56,14 +56,14 @@ author_profile: true
 
 - <a href="/files/ConvexClustering.zip" download>ConvexClustering</a>: [a MATLAB package for convex clustering](https://blog.nus.edu.sg/mattohkc/softwares/convexclustering/) [last updated in June 2021]. [See the introduction on how to use it](https://blog.nus.edu.sg/mattohkc/softwares/convexclustering/).
 
---
+---
 
 ## Codes for rank constrained problems
 - <a href="/files/Rank_CaliMat.zip" download>Rank_CaliMat.zip</a> Calibrating the **Nearest Correlation Matrix with Rank Constraints** (uploaded in April 2010).
 
 - <a href="/files/Rank_CaliMatHdm.zip" download>Rank_CaliMatHdm.zip</a> Calibrating the **H-weighted Nearest Correlation Matrix with Rank Constraints** (uploaded in April 2010; last updated in October 2010 by including the refined Major codes).
 
---
+---
 
 ## Codes for other problems
 
