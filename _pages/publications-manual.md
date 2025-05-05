@@ -29,6 +29,7 @@ author_profile: true
 
 - Shulan Zhu, Chenglong Bao, Defeng Sun, and Yancheng Yuan, “A tight convergence analysis of inexact stochastic proximal point algorithm for stochastic composite optimization problems”, ICLR 2025.
 
+---
 
 ## 2024
 
@@ -42,6 +43,8 @@ author_profile: true
 
 - Yangjing Zhang, Kim-Chuan Toh, and D.F. Sun, “Learning graph Laplacian with MCP”, Optimization Methods and Software 39:3 (2024) 569--600.
 
+---
+
 ## 2023
 - D. Zhang, Shaohua Pan, S. Bi, and D.F. Sun, “Zero-norm regularized problems: equivalent surrogates, proximal MM method and statistical error bound”, Computational Optimization and Applications 86:2 (2023)  627–-667.
 
@@ -53,6 +56,8 @@ author_profile: true
 
 - L.P. Zhang, D.F. Sun, and Z.T. Luan, “Solvability of monotone tensor complementarity problems”, SCIENCE CHINA Mathematics 66 (2023)  647–-664.
 
+---
+
 ## 2022
 - Y.C. Yuan, T.-H. Chang, D.F. Sun, and Kim-Chuan Toh, “A dimension reduction technique for structured sparse optimization problems with application to convex clustering”, SIAM Journal on Optimization 32 (2022) 2294--2318.
 
@@ -63,6 +68,8 @@ author_profile: true
 - Ying Cui, Ling Liang, Defeng Sun, and Kim Chuan Toh, “On degenerate doubly nonnegative projection problems”, Mathematics of Operations Research 47 (2022)  2219—2239.
 
 - Meixia Lin,  Defeng Sun, and  Kim Chuan Toh, “An augmented Lagrangian method with constraint generations for shape-constrained convex regression problems”, Mathematical Programming Computation 14 (2022)  223–-270.
+
+---
 
 ## 2021
 - Ling Liang, Defeng Sun, and Kim Chuan Toh, “An inexact augmented Lagrangian method for second-order cone programming with applications”, SIAM Journal on Optimization 31:3 (2021) 1748--1773. 
@@ -78,6 +85,8 @@ author_profile: true
 - Ning Zhang, Yangjing Zhang,  Defeng Sun, and Kim Chuan Toh, “An efficient linearly convergent regularized proximal point algorithm for fused multiple graphical Lasso problems”, SIAM Journal on Mathematics of Data Science 3:2 (2021) 524--543. 
 
 - Liang Chen, Xudong Li, Defeng Sun, and Kim Chuan Toh, “On the equivalence of inexact proximal ALM and ADMM for a class of convex composite programming”, Mathematical Programming 185 (2021) 111—161 [Correction to the Proof of Lemma 3.3].
+
+---
 
 ## 2020
 - Peipei Tang, Chengjing Wang, Defeng Sun, and Kim Chuan Toh,  “A sparse semismooth Newton based proximal majorization-minimization algorithm for nonconvex square-root-loss regression problems”, Journal of Machine Learning Research 21(226):1--38, 2020. [See the software package square_root_PMM]
@@ -95,6 +104,8 @@ author_profile: true
 - Yangjing Zhang, Ning Zhang, Defeng Sun, and Kim Chuan Toh, “An efficient Hessian based algorithm for solving large-scale sparse group Lasso problems”,   Mathematical Programming 179 (2020) 223--263 [DOI:10.1007/s10107-018-1329-6] https://arxiv.org/pdf/1712.05910.pdf
 
 - Defeng Sun, Kim Chuan Toh, Yancheng Yuan, Xin-Yuan Zhao, “SDPNAL+: A Matlab software for semidefinite programming with bound constraints (version 1.0)”, Optimization Methods and Software 35 (2020) 87--115.
+
+---
 
 ## 2019
 - Ziyan Luo, Defeng Sun, Kim Chuan Toh,  Naihua Xiu, “Solving the OSCAR and SLOPE models using a semismooth Newton-based augmented Lagrangian method”,  Journal of Machine Learning Research 20(106):1--25, 2019.
@@ -120,6 +131,8 @@ author_profile: true
 
 - “Practical Algorithms for Large Scale Convex Composite Conic Programming Problem”, (PhD thesis of LAM Xin Yee, co-supervisor during August 2014-July 2018, NUS) February 2019.
 
+---
+
 ## 2018
 - Yancheng Yuan, Defeng Sun and Kim Chuan Toh,  “An efficient semismooth Newton based algorithm for convex clustering”, Proceedings of the 35-th International Conference on Machine Learning (ICML), Stockholm, Sweden, PMLR 80, 2018.
 
@@ -141,6 +154,8 @@ author_profile: true
 **Theses of Students:**
 - “EFFICIENT DUALITY-BASED NUMERICAL METHODS FOR SPARSE PARABOLIC OPTIMAL CONTROL PROBLEMS”, (PhD thesis of  CHEN Bo,  NUS) June  2018.
 
+---
+
 ## 2017
 - Chao Ding, Defeng Sun, and Liwei Zhang, “Characterization of the robust isolated calmness for a class of conic programming problems”, arXiv:1601.07418. SIAM Journal on Optimization 27 (2017) 67--90.
 
@@ -150,6 +165,8 @@ author_profile: true
 
 **Theses of Students:**
 - “The Metric Subregularity of KKT Solution Mappings of Composite Conic Programming”, (PhD thesis of GUO Han) March 2017.
+
+---
 
 ## 2016
 - Ying Cui, Chenlei Leng, and Defeng Sun, “Sparse estimation of high-dimensional correlation matrices”, Computational Statistics & Data Analysis Vol. 93 (2016) 390–403.
@@ -170,6 +187,8 @@ author_profile: true
 **Theses of Students:**
 - “Large Scale Composite Optimization Problems with Coupled Objective Functions: Theory, Algorithms and Applications”, (PhD thesis of CUI Ying) January 2016. [Her dissertation was awarded the Louis Chan Hsiao Yun Best Dissertation Prize by the National University of Singapore in 2018]
 
+---
+
 ## 2015
 
 - Liuqin Yang, Defeng Sun, and Kim Chuan Toh, “SDPNAL+: a majorized semismooth Newton-CG augmented Lagrangian method for semidefinite programming with nonnegative constraints”, Mathematical Programming Computation   Vol. 7, Issue 3 (2015) 331–366. Detailed computational results for over 500 problems tested in the paper. [This paper together with the accompany software was awarded the triennial Beale–Orchard-Hays Prize for Excellence in Computational Mathematical Programming by the Mathematical Optimization Society at Bordeaux, France, July 2-6, 2018. See Picture 1, Picture 2, and Picture 3.] 
@@ -182,6 +201,8 @@ author_profile: true
 - “An inexact Alternating Direction Method of Multipliers for Convex Composite Conic Programming with Nonlinear Constraints”, (PhD thesis of DU Mengyu) August 2015.
 
 - “A Two-Phase Augmented Lagrangian Method for Convex Composite Quadratic Programming”, (PhD thesis of LI Xudong) January 2015.
+
+---
 
 ## 2014
 - Kaifeng Jiang, Defeng Sun, and Kim Chuan Toh, “A partial proximal point algorithm for nuclear norm regularized matrix least squares problems”, PDF version Mathematical Programming Computation 6 (2014) 281--325.
@@ -200,6 +221,8 @@ author_profile: true
 
 - “High-Dimensional Analysis on Matrix Decomposition with Application to Correlation Matrix Estimation in Factor Models”, Thesis_WuBin.pdf (PhD thesis of WU Bin) January 2014.
 
+---
+
 ## 2013
 - Maryam Fazel, Ting Kei Pong, Defeng Sun, and Paul Tseng, “Hankel matrix rank minimization with applications to system identification and realization”, Hankel-Matrix-semi-Proximal-ADMM SIAM Journal on Matrix Analysis and Applications 34 (2013) 946-977.
 
@@ -210,6 +233,7 @@ author_profile: true
 **Theses of Students:**
 - “Matrix Completion Models with Fixed Basis Coefficients and Rank Regularized Problems with Hard Constraints”, PhDThesis_Miao_Final.pdf (PhD thesis of MIAO Weimin) January 2013.
 
+---
 
 ## 2012
 - Kaifeng Jiang, Defeng Sun, and Kim Chuan Toh, “An inexact accelerated proximal gradient method for large scale linearly constrained convex SDP”, iAPG_QSDP.pdf SIAM Journal on Optimization 22 (2012) 1042--1064.  [The algorithm is used in NAG’s nearest correlation library]
@@ -221,8 +245,12 @@ author_profile: true
 
 - “An Introduction to A Class of Matrix Optimization Problems”, PDF version DingChao_Thesis_final.pdf (PhD thesis of DING Chao) January 2012.
 
+---
+
 ## 2011
 - Houduo Qi and Defeng Sun, “An augmented Lagrangian dual approach for the H-weighted nearest correlation matrix problem”, PDF version CorrMatHnorm.pdf; IMA Journal of Numerical Analysis 31 (2011) 491--511. See the "MATLAB Codes" section for codes in Matlab.
+
+---
 
 ## 2010
 - Chengjing Wang, Defeng Sun, and Kim Chuan Toh, “Solving log-determinant optimization problems by a Newton-CG proximal point algorithm”, September 2009, PDF version logdet-NAL-29Sep09.pdf; Revised in March 2010, PDF version logdet-NAL-12Mar10.pdf; SIAM Journal on Optimization 20 (2010) 2994--3013. See the "MATLAB Codes" section for codes in Matlab.
@@ -234,6 +262,8 @@ author_profile: true
 **Theses of Students:**
 - “Structured Low Rank Matrix Optimization Problems: A Penalized Approach” PDF version main_gy.pdf (PhD thesis of GAO Yan) August 2010.
 
+---
+
 ## 2009
 - Yan Gao and Defeng Sun, “Calibrating least squares covariance matrix problems with equality and inequality constraints”, PDF version CaliMat.pdf; SIAM Journal on Matrix Analysis and Applications 31 (2009) 1432--1457. See the "MATLAB Codes" section for codes in Matlab.
 
@@ -242,6 +272,7 @@ author_profile: true
 
 - “A Study on Nonsymmetric Matrix-Valued Functions” PDF version Main_YZ.pdf (Master thesis of YANG Zhe) August 2009.
 
+---
 
 ## 2008
 - Jiri Outrata and Defeng Sun, “On the coderivative of the projection operator onto the second order cone”, Set-Valued Analysis 16 (2008) 999--1014.
@@ -254,10 +285,13 @@ author_profile: true
 
 - Defeng Sun, Jie Sun, and Liwei Zhang, “The rate of convergence of the augmented Lagrangian method for nonlinear semidefinite programming”. Mathematical Programming 114 (2008) 349--391.
 
+---
+
 ## 2007
 
 - Zheng-Jian Bai, Delin Chu, and Defeng Sun, “A dual optimization approach to inverse quadratic eigenvalue problems with partial eigenstructure”. SIAM Journal on Scientific Computing 29 (2007) 2531--2561. [This paper brought Zheng-Jian Bai the The Applied Numerical Algebra Prize in the Second International Conference on Numerical Algebra and Scientific Computing (NASC 2008)].
 
+---
 
 ## 2006
 - Defeng Sun, “The strong second order sufficient condition and constraint nondegeneracy in nonlinear semidefinite programming and their implications”, Final PDF version NLSDP_Final.pdf Mathematics of Operations Research 31 (2006) 761--776.
@@ -266,6 +300,7 @@ author_profile: true
 
 - Zheng-Hai Huang, Defeng Sun and Gongyun Zhao, “A smoothing Newton-type algorithm of stronger convergence for the quadratically constrained convex quadratic programming”, Revised PDF version HSZ_Re.pdf Computational Optimization and Applications 35 (2006) 197--237.
 
+---
 
 ## 2005
 - Fanwen Meng, D.F. Sun and Gongyun Zhao, “Semismoothness of solutions to generalized equations and the Moreau-Yosida regularization”, Mathematical Programming 104 (2005) 561--581.
@@ -279,6 +314,8 @@ author_profile: true
 
 - “A Smoothing Newton Method for the Boundary-Valued ODEs” PDF version Zheng_May_2005.pdf (Master thesis of ZHENG Zheng)
 
+---
+
 ## 2004
 - Z. Huang, L. Qi and D.F. Sun, “Sub-Quadratic Convergence of a Smoothing Newton Algorithm for the P_0-- and Monotone LCP”,  PDF version hqs_revised_Feb20.pdf Mathematical Programming, 99 (2004), 423--441.
 
@@ -288,6 +325,8 @@ author_profile: true
 - “Smooth Convex Approximation and Its Applications” PDF version Shi_July_2004.pdf (Master thesis of Shengyuan SHI)
 
 - “The Smoothing Function of the Nonsmooth Matrix Valued Function” PDF version Zhao_July_2004.pdf (Master thesis of Jinye ZHAO)
+
+---
 
 ## 2003
 - H.-D. Qi, L. Qi and D.F. Sun, “Solving KKT Systems via the Trust Region and the Conjugate Gradient Methods,” SIAM Journal on Optimization, 14 (2003) 439--463.
@@ -300,6 +339,8 @@ author_profile: true
 
 - D.F. Sun and Jie Sun, “Strong Semismoothness of Eigenvalues of Symmetric Matrices and Its Application to Inverse Eigenvalue Problems,” SIAM Journal on Numerical Analysis, 40 (2003) 2352--2367.
 
+---
+
 ## 2002
 - D.F. Sun, R.S. Womersley and H.-D. Qi, “A feasible semismooth asymptotically Newton method for mixed complementarity problems”, PDF version SWQ_02.pdf Mathematical Programming, 94 (2002) 167--187.
 
@@ -308,6 +349,8 @@ author_profile: true
 - L. Qi and D. Sun, “Smoothing Functions and a Smoothing Newton Method for Complementarity and Variational Inequality Problems”, Journal of Optimization Theory and Applications, 113 (2002) 121--147.
 
 - L. Qi, D. Sun and G. Zhou, ``A primal-dual algorithm for minimizing a sum of Euclidean norms'', Journal of Computational and Applied Mathematics, 138 (2002) 127--150.
+
+---
 
 ## 2001
 - D. Sun, “A further result on an implicit function theorem for locally Lipschitz functions”,  Operations Research Letters, 28 (2001) 193--198.
@@ -320,6 +363,8 @@ author_profile: true
 
 - E. Polak, L. Qi and D. Sun, "Second-Order Algorithms for Generalized Finite and Semi-Infinite Min-Max Problems," SIAM Journal on Optimization 11 (2001) 937--961.
 
+---
+
 ## 2000
 - L. Qi, D. Sun and G. Zhou, “A new look at smoothing Newton methods for nonlinear complementarity problems and box constrained variational inequalities,” Mathematical Programming, 87 (2000), 1--35.
 
@@ -328,6 +373,8 @@ author_profile: true
 - Y. Dai, J. Han, G. Liu, D. Sun, H. Yin and Y. Yuan, “Convergence properties of nonlinear conjugate gradient methods,” SIAM Journal on Optimization, 10 (2000), 345--358.
 
 - L. Qi and D. Sun, “Polyhedral methods for solving three index assignment problems,” Nonlinear Assignment Problems: Algorithms and Applications, P.M. Pardalos and L. Pitsoulis, eds., (Kluwer Academic Publisher, Nowell, MA, USA, 2000), 91--107.
+
+---
 
 ## 1999
 - R. Mifflin, L. Qi and D. Sun, “Properties of Moreau-Yosida regularization of a piecewise $C^2$ convex function,” Mathematical Programming, Vol. 84, 1999, 269--281.
@@ -344,6 +391,8 @@ author_profile: true
 
 - G. Zhou, D. Sun and L. Qi, “Numerical experiments for a class of squared smoothing Newton methods for complementarity and variational inequality problems,” PDF version zsq_99.pdf in Reformulation: Nonsmooth, Piecewise Smooth, Semismooth and Smoothing Methods, M. Fukushima and L. Qi (eds.), Kluwer Academic Publishers B.V., 421--441, 1999.
 
+---
+
 ## 1998
 - F. Potra, L. Qi and D. Sun, “Secant methods for semismooth equations,” Numerische Mathematik, Vol. 80, 1998, 305--324.
 
@@ -357,6 +406,8 @@ author_profile: true
 
 - D.F. Sun and J. Han and Y.B. Zhao, “On the finite termination of the damped-Newton algorithm for the linear complementarity problem,” Acta Mathematica Numerica Applicatae, Vol. 21:1, 1998, 148--154.
 
+---
+
 ## 1997
 - D. Sun and J. Han, “Newton and quasi-Newton methods for a class of nonsmooth equations and related problems,” PDF version Sun_Han_97.pdf SIAM Journal on Optimization, 7 (1997) 463--480.
 
@@ -366,10 +417,14 @@ author_profile: true
 
 - D. Sun and J. Han, “On a conjecture in Moreau-Yosida approximation of a nonsmooth convex function”,  Chinese Science Bulletin 42 (1997) 1423--1426.
 
+---
+
 ## 1996
 - D. Sun, “A class of iterative methods for solving nonlinear projection equations”, Journal of Optimization Theory and Applications, Vol. 91, No.1, 1996, pp. 123--140.
 
 - H. Jiang, L. Qi, X. Chen and D. Sun, ``Semismoothness and Superlinear Convergence in Nonsmooth Optimization and Nonsmooth Equations'', Nonlinear Optimization and Applications, G. Di Pillo and F. Giannessi eds., (Plenum Publishing Corporation, New York), 1996, 197--212.
+
+---
 
 ## 1995
 - G. Liu, J. Han and D. Sun, “Global convergence of BFGS method with nonmonotone line search”, Optimization 34 (1995) 147--159.
@@ -377,6 +432,8 @@ author_profile: true
 - D. Sun, “A new step-size skill for solving a class of nonlinear projection equations”, Journal of Computational Mathematics 13:4 (1995), 357--368.
 
 - D. F.  Sun, Algorithms and Convergence Analysis for Nonsmooth Optimization and Nonsmooth Equations,  PhD thesis  (submitted in December 1994 and defended in March 1995), Institute of Applied Mathematics, Chinese Academy of Sciences.
+
+---
 
 ## 1994
 - D. Xu and D. Sun, “A modification of successive approximation method for nonsmooth equations”, PDF version Xu_Sun_smoothing_94.pdf Qufu Shifan Daxue Xuebao Ziran Kexue Ban 20:3 (1994) 14--20.
@@ -386,6 +443,8 @@ author_profile: true
 - D. Sun, “A projection and contraction method for the nonlinear complementarity problem and its extensions'', PDF version Sun94.pdf Mathematica Numerica Sinica 16 (1994) 183--194. (In Chinese). English translation published in Chinese Journal of Numerical Mathematics and Applications 16:3 (1994) 73--84.
 
 - D.F. Sun, “An iterative method for solving variational inequality problems and complementarity problems”, Numerical Mathematics A Journal of Chinese Universities 16 (1994) 145--153. (In Chinese).
+
+---
 
 ## 1993
 - D.F. Sun, “Projected extragradient method for finding saddle points of general convex programming”, Qufu Shifan Daxue Xuebao Ziran Kexue Ban 19:4 (1993) 10--17.
