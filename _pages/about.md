@@ -52,18 +52,17 @@ Hung Hom, Kowloon, Hong Kong -->
 
 ## Recent Research Interests
 
--Convex Optimization: Theory, Algorithms, and GPU Acceleration
--Machine Learning & AI
--Variational Convexity and Local Monotonicity Analysis
--Statistical Optimization and Learning
+- Convex Optimization: Theory, Algorithms, and GPU Acceleration
+- Machine Learning & AI
+- Variational Convexity and Local Monotonicity Analysis
+- Statistical Optimization and Learning
 
 ---
 
 ## Teaching
 
 **AMA615 – Nonlinear Optimization Methods**  
-*Semester 1, 2020/2021*  
-Lecture times: Wednesday (11:30–12:30), Friday (11:30–13:30)
+Semester 1, 2020/2021; Wednesday (11:30-12:30) and Friday (11:30—13:30).
 
 ---
 
@@ -72,7 +71,7 @@ Lecture times: Wednesday (11:30–12:30), Friday (11:30–13:30)
 - **PhD Students**  
 I am particularly interested in students who have solid analytical foundation and are willing to use applied mathematics/AI  techniques to tackle real-world problems.  Drop me an email to request for more details. **English requirement for PhD students** (with or without a master degree): at least IELTS 6.5 or TOEFL 80.  Consider applying via the [Hong Kong PhD Fellowship Scheme](https://www.polyu.edu.hk/rio/)
 
-- **Research Assistants / Associates / Fellows / Postdocs**  
+- **Research Assistants/Associates/Fellows/Postdoctoral Fellows**  
  <span style="color:red">multiple positions are available</span>; working on various projects concerning convex and non-convex optimization, AI and machine learning, metaverse, variational convexity/analysis and mixed integer programming. Priority will be given to those who are interested in learning and understanding AI technologies. 
 
 ---
