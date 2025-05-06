@@ -28,7 +28,7 @@ Hung Hom, Kowloon, Hong Kong -->
 - **Phone**: +852 2766 6935
 - **Fax**: +852 2362 9045
 - **Email**: [defeng.sun@polyu.edu.hk](mailto:defeng.sun@polyu.edu.hk)  
-- **Web**: [Defeng's website](https://ljw2024polyu.github.io/) 
+- **Web**: [Defeng's website](https://defengwebsite.github.io/) 
 
 <!-- ## Contact
 
@@ -44,7 +44,7 @@ Hung Hom, Kowloon, Hong Kong -->
 
 - **BSc (1989)**, **MSc (1992)** both from Department of Mathematics,  Nanjing University, Nanjing
 
-- **PhD (1995)** from Institute of Applied Mathematics, Chinese Academy of Sciences, Beijing [Supervisor: Professor Jiye Han (韩继业)]
+- **PhD (1995)** from Institute of Applied Mathematics, Chinese Academy of Sciences, Beijing [Supervisor: Professor [Jiye Han (韩继业)](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=155318)]
 
 
 
