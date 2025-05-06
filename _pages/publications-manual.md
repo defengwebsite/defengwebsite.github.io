@@ -28,7 +28,7 @@ author_profile: true
 
 - [Liang Chen](https://grzy.hnu.edu.cn/site/index/chenliang3), Defeng Sun, and Wangyongquan Zhang, “[Two typical implementable semismooth* Newton methods for generalized equations are G-semismooth Newton methods](/files/2407.14215v2.pdf)”, arXiv:2407.14215 (July 2024; Revised in March 2025).
 
-- Maojun Sun, Ruijian Han, [Binyan Jiang](https://www.polyu.edu.hk/ama/people/academic-staff/dr-jiang-binyan/?sc_lang=en), Houduo Qi, Defeng Sun,[Yancheng Yuan](https://www.polyu.edu.hk/ama/people/academic-staff/dr-yuan-yancheng/?sc_lang=en) and Jian Huang, “[LAMBDA: A Large Model Based Data Agent](/files/2407.17535v2.pdf)”, arXiv 2407.17535 (July 2024; in Revision).
+- Maojun Sun, Ruijian Han, [Binyan Jiang](https://www.polyu.edu.hk/ama/people/academic-staff/dr-jiang-binyan/?sc_lang=en), [Houduo Qi](https://www.polyu.edu.hk/ama/profile/hdqi/hdqi.html), Defeng Sun,[Yancheng Yuan](https://www.polyu.edu.hk/ama/people/academic-staff/dr-yuan-yancheng/?sc_lang=en) and Jian Huang, “[LAMBDA: A Large Model Based Data Agent](/files/2407.17535v2.pdf)”, arXiv 2407.17535 (July 2024; in Revision).
 
 - Kaihuang Chen, Defeng Sun, [Yancheng Yuan](https://www.polyu.edu.hk/ama/people/academic-staff/dr-yuan-yancheng/?sc_lang=en), Guojun Zhang, and [Xinyuan Zhao](https://scholar.google.com/citations?user=nFG8lEYAAAAJ&hl=en), “[**HPR-LP: An implementation of an HPR method for solving linear programming**](/files/2408.12179v2.pdf)”, arXiv:2408.12179 (August 2024).
 
@@ -245,7 +245,7 @@ author_profile: true
 ## 2014
 - Kaifeng Jiang, Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “A partial proximal point algorithm for nuclear norm regularized matrix least squares problems”, PDF version [**Mathematical Programming Computation**](https://link.springer.com/journal/12532) 6 (2014) 281--325.
 
-- [Chao Ding](https://www.dingchao.info/), Defeng Sun, and Jane Ye, “First order optimality conditions for mathematical programs with semidefinite cone complementarity constraints”, November 2010, PDF version SDCMPCC-Nov-15.pdf; Revised in May 2012; PDF version SDCMPCC_Revised_May16_12; online version  SDCMPCC_online.pdf [**Mathematical Programming**](https://link.springer.com/journal/10107) 147 (2014) 539-579.
+- [Chao Ding](https://www.dingchao.info/), Defeng Sun, and [Jane Ye](http://www.math.uvic.ca/faculty/janeye/), “First order optimality conditions for mathematical programs with semidefinite cone complementarity constraints”, November 2010, PDF version SDCMPCC-Nov-15.pdf; Revised in May 2012; PDF version SDCMPCC_Revised_May16_12; online version  SDCMPCC_online.pdf [**Mathematical Programming**](https://link.springer.com/journal/10107) 147 (2014) 539-579.
 
 - Bin Wu, [Chao Ding](https://www.dingchao.info/), Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “On the Moreau-Yosida regularization of the vector k-norm related functions”, PDF version [**SIAM Journal on Optimization**](https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/) 24 (2014) 766--794.
 
@@ -262,9 +262,9 @@ author_profile: true
 ---
 
 ## 2013
-- Maryam Fazel, Ting Kei Pong, Defeng Sun, and Paul Tseng, “Hankel matrix rank minimization with applications to system identification and realization”, Hankel-Matrix-semi-Proximal-ADMM **SIAM Journal on Matrix Analysis and Applications** 34 (2013) 946-977.
+- [Maryam Fazel](https://people.ece.uw.edu/fazel_maryam/), [Ting Kei Pong](https://www.polyu.edu.hk/ama/profile/pong/), Defeng Sun, and [Paul Tseng](https://en.wikipedia.org/wiki/Paul_Tseng), “Hankel matrix rank minimization with applications to system identification and realization”, Hankel-Matrix-semi-Proximal-ADMM **SIAM Journal on Matrix Analysis and Applications** 34 (2013) 946-977.
 
-- Junfeng Yang, Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “A proximal point algorithm for log-determinant optimization with group lasso regularization”, GROUP LASSO REGULARIZATION.pdf **SIAM Journal on Optimizatio**n 23 (2013) 857--893.
+- [Junfeng Yang](https://math.nju.edu.cn/~jfyang/), Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “A proximal point algorithm for log-determinant optimization with group lasso regularization”, GROUP LASSO REGULARIZATION.pdf **SIAM Journal on Optimizatio**n 23 (2013) 857--893.
 
 - Kaifeng Jiang, Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “Solving nuclear norm regularized and semidefinite matrix least squares problems with linear equality constraints”, PDF version PPA_Semismooth-Revision.pdf. **Fields Institute Communications Series on Discrete Geometry and Optimization**, K. Bezdek, Y. Ye, and A. Deza eds., 2013.
 
@@ -286,7 +286,7 @@ author_profile: true
 ---
 
 ## 2011
-- Houduo Qi and Defeng Sun, “An augmented Lagrangian dual approach for the H-weighted nearest correlation matrix problem”, PDF version CorrMatHnorm.pdf; **IMA Journal of Numerical Analysis** 31 (2011) 491--511. See the "MATLAB Codes" section for codes in Matlab.
+- [Houduo Qi](https://www.polyu.edu.hk/ama/profile/hdqi/hdqi.html) and Defeng Sun, “An augmented Lagrangian dual approach for the H-weighted nearest correlation matrix problem”, PDF version CorrMatHnorm.pdf; **IMA Journal of Numerical Analysis** 31 (2011) 491--511. See the "MATLAB Codes" section for codes in Matlab.
 
 ---
 
@@ -295,7 +295,7 @@ author_profile: true
 
 - [Xinyuan Zhao](https://scholar.google.com/citations?user=nFG8lEYAAAAJ&hl=en), Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “A Newton-CG augmented Lagrangian method for semidefinite programming”, PDF version NewtonCGAugLag.pdf ; [**SIAM Journal on Optimization**](https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/) 20 (2010) 1737--1765. See the "MATLAB Codes" section for codes in Matlab.
 
-- Houduo Qi and Defeng Sun, “Correlation stress testing for value-at-risk: an unconstrained convex optimization approach”, PDF version stress_test.pdf; **Computational Optimization and Applications** 45 (2010) 427--462. See the "MATLAB Codes" section for codes in Matlab.
+- [Houduo Qi](https://www.polyu.edu.hk/ama/profile/hdqi/hdqi.html) and Defeng Sun, “Correlation stress testing for value-at-risk: an unconstrained convex optimization approach”, PDF version stress_test.pdf; **Computational Optimization and Applications** 45 (2010) 427--462. See the "MATLAB Codes" section for codes in Matlab.
 
 **Theses of Students:**
 - “Structured Low Rank Matrix Optimization Problems: A Penalized Approach” PDF version main_gy.pdf (**PhD thesis of GAO Yan**) August 2010.
@@ -336,14 +336,14 @@ author_profile: true
 ## 2006
 - Defeng Sun, “The strong second order sufficient condition and constraint nondegeneracy in nonlinear semidefinite programming and their implications”, Final PDF version NLSDP_Final.pdf [**Mathematics of Operations Research**](https://pubsonline.informs.org/journal/moor) 31 (2006) 761--776.
 
-- Houduo Qi and Defeng Sun, “A quadratically convergent Newton method for computing the nearest correlation matrix”, **SIAM Journal on Matrix Analysis and Applications** 28 (2006) 360--385. Code in Matlab  [The algorithm is used in NAG’s nearest correlation library]
+- [Houduo Qi](https://www.polyu.edu.hk/ama/profile/hdqi/hdqi.html) and Defeng Sun, “A quadratically convergent Newton method for computing the nearest correlation matrix”, **SIAM Journal on Matrix Analysis and Applications** 28 (2006) 360--385. Code in Matlab  [The algorithm is used in NAG’s nearest correlation library]
 
-- Zheng-Hai Huang, Defeng Sun and Gongyun Zhao, “A smoothing Newton-type algorithm of stronger convergence for the quadratically constrained convex quadratic programming”, Revised PDF version HSZ_Re.pdf **Computational Optimization and Applications** 35 (2006) 197--237.
+- Zheng-Hai Huang, Defeng Sun and [Gongyun Zhao](http://ww1.math.nus.edu.sg/staffCV/matzgy.pdf), “A smoothing Newton-type algorithm of stronger convergence for the quadratically constrained convex quadratic programming”, Revised PDF version HSZ_Re.pdf **Computational Optimization and Applications** 35 (2006) 197--237.
 
 ---
 
 ## 2005
-- Fanwen Meng, D.F. Sun and Gongyun Zhao, “Semismoothness of solutions to generalized equations and the Moreau-Yosida regularization”, [**Mathematical Programming**](https://link.springer.com/journal/10107) 104 (2005) 561--581.
+- Fanwen Meng, D.F. Sun and [Gongyun Zhao](http://ww1.math.nus.edu.sg/staffCV/matzgy.pdf), “Semismoothness of solutions to generalized equations and the Moreau-Yosida regularization”, [**Mathematical Programming**](https://link.springer.com/journal/10107) 104 (2005) 561--581.
 
 - D.F. Sun and [Jie Sun](https://staffportal.curtin.edu.au/staff/profile/view/jie-sun-f50efac3/), “Nonsmooth Matrix Valued Functions Defined by Singular Values”, December 2002. PDF version SS3.pdf. Revised with the new title as “Strong semismoothness of Fischer-Burmeister SDC and SOC functions”, Final PDF version SS3_Rev.pdf [**Mathematical Programming**](https://link.springer.com/journal/10107) 103 (2005) 575--581.
 
@@ -369,7 +369,7 @@ author_profile: true
 ---
 
 ## 2003
-- H.-D. Qi, L. Qi and D.F. Sun, “Solving KKT Systems via the Trust Region and the Conjugate Gradient Methods,” [**SIAM Journal on Optimization**](https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/), 14 (2003) 439--463.
+- [H.-D. Qi](https://www.polyu.edu.hk/ama/profile/hdqi/hdqi.html), L. Qi and D.F. Sun, “Solving KKT Systems via the Trust Region and the Conjugate Gradient Methods,” [**SIAM Journal on Optimization**](https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/), 14 (2003) 439--463.
 
 - J.S. Pang, D.F. Sun and [Jie Sun](https://staffportal.curtin.edu.au/staff/profile/view/jie-sun-f50efac3/), “Semismooth Homeomorphisms and Strong Stability of Semidefinite and Lorentz Cone Complementarity Problems,” PDF version PSS_03.pdf [**Mathematics of Operations Research**](https://pubsonline.informs.org/journal/moor), 28 (2003) 39-63.
 
@@ -382,7 +382,7 @@ author_profile: true
 ---
 
 ## 2002
-- D.F. Sun, R.S. Womersley and H.-D. Qi, “A feasible semismooth asymptotically Newton method for mixed complementarity problems”, PDF version SWQ_02.pdf [**Mathematical Programming**](https://link.springer.com/journal/10107), 94 (2002) 167--187.
+- D.F. Sun, [R.S. Womersley](http://www.maths.unsw.edu.au/~rsw/rsw.html) and [H.-D. Qi](https://www.polyu.edu.hk/ama/profile/hdqi/hdqi.html), “A feasible semismooth asymptotically Newton method for mixed complementarity problems”, PDF version SWQ_02.pdf [**Mathematical Programming**](https://link.springer.com/journal/10107), 94 (2002) 167--187.
 
 - D.F. Sun and [Jie Sun](https://staffportal.curtin.edu.au/staff/profile/view/jie-sun-f50efac3/), “Semismooth Matrix Valued Functions”, PDF version SS_02.pdf [**Mathematics of Operations Research**](https://pubsonline.informs.org/journal/moor), 27 (2002) 150--169.
 
