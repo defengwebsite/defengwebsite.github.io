@@ -21,8 +21,8 @@ main:
   - title: "Talks"
     url: /talks_1/    
 
-  - title: "Technical Reports"
-    url: /Technical Reports/    
+  #- title: "Technical Reports"
+  #  url: /Technical Reports/    
 
   - title: "Publications"
     url: /publications_1/
