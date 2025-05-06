@@ -49,7 +49,7 @@ author_profile: true
 
 - Guojun Zhang, Zhexuan Gu,[Yancheng Yuan](https://www.polyu.edu.hk/ama/people/academic-staff/dr-yuan-yancheng/?sc_lang=en), and Defeng Sun, “[HOT: An Efficient Halpern Accelerating Algorithm for Optimal Transport Problems](https://www.polyu.edu.hk/ama/profile/dfsun/HOT-ArXiv-Apr-16-2025.pdf)”, [**IEEE Transactions on Pattern Analysis and Machine Intelligence (2025)**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), in print. arXiv:2408.00598  (August 2024).
 
--[Yancheng Yuan](https://www.polyu.edu.hk/ama/people/academic-staff/dr-yuan-yancheng/?sc_lang=en), [Meixia Lin](https://www.sutd.edu.sg/profile/lin-meixia/), Defeng Sun, and [Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “Adaptive sieving: A dimension reduction technique for sparse optimization problems”,  [**Mathematical Programming Computation**](https://link.springer.com/journal/12532) (2025), in print. arXiv:2306.17369 (2023; Revised September 2024).
+- [Yancheng Yuan](https://www.polyu.edu.hk/ama/people/academic-staff/dr-yuan-yancheng/?sc_lang=en), [Meixia Lin](https://www.sutd.edu.sg/profile/lin-meixia/), Defeng Sun, and [Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “Adaptive sieving: A dimension reduction technique for sparse optimization problems”,  [**Mathematical Programming Computation**](https://link.springer.com/journal/12532) (2025), in print. arXiv:2306.17369 (2023; Revised September 2024).
 
 - Zhenzhi Qin, Zhenyu Ming, Defeng Sun, and [Liping Zhang](https://scholar.google.com/citations?user=y3fz8SMAAAAJ&hl=en), “Low-rank quaternion tensor completion for color video inpainting via a novel factorization strategy”, [**Mathematics of Computation**](https://www.ams.org/publications/journals/journalsframework/mcomsubmit) (2025), in print. arXiv:2403.16480.
 
@@ -103,7 +103,7 @@ author_profile: true
 
 - Xueying Zhao, Minru Bai, Defeng Sun, and Libin Zheng   “Robust tensor completion: Equivalent surrogates, error bounds and algorithms”, [**SIAM Journal on Imaging Sciences**](https://www.siam.org/publications/siam-journals/siam-journal-on-imaging-sciences/) 15 (2022) 625–-669.
 
--[Ying Cui](https://sites.google.com/site/optyingcui/), [Ling Liang](https://scholar.google.com/citations?user=81u-WasAAAAJ&hl=en), Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “On degenerate doubly nonnegative projection problems”, [**Mathematics of Operations Research**](https://pubsonline.informs.org/journal/moor) 47 (2022)  2219—2239.
+- [Ying Cui](https://sites.google.com/site/optyingcui/), [Ling Liang](https://scholar.google.com/citations?user=81u-WasAAAAJ&hl=en), Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “On degenerate doubly nonnegative projection problems”, [**Mathematics of Operations Research**](https://pubsonline.informs.org/journal/moor) 47 (2022)  2219—2239.
 
 - [Meixia Lin](https://www.sutd.edu.sg/profile/lin-meixia/),  Defeng Sun, and  [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “An augmented Lagrangian method with constraint generations for shape-constrained convex regression problems”, [**Mathematical Programming Computation**](https://link.springer.com/journal/12532) 14 (2022)  223–-270.
 
@@ -152,13 +152,13 @@ author_profile: true
 
 - [Shenglong Hu](https://scholar.google.com/citations?user=Y_-7Kb8AAAAJ&hl=en), Defeng Sun, [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “Best nonnegative rank-one approximations of tensors”, **SIAM Journal on Matrix Analysis and Applications** 40 (2019) 1527--1554. 
 
--[Ying Cui](https://sites.google.com/site/optyingcui/), Defeng Sun, [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “Computing the best approximation over the intersection of a polyhedral set and the doubly nonnegative cone”, [**SIAM Journal on Optimization**](https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/) 29 (2019) 2785--2813. 
+- [Ying Cui](https://sites.google.com/site/optyingcui/), Defeng Sun, [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “Computing the best approximation over the intersection of a polyhedral set and the doubly nonnegative cone”, [**SIAM Journal on Optimization**](https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/) 29 (2019) 2785--2813. 
 
 - [Meixia Lin](https://www.sutd.edu.sg/profile/lin-meixia/), [Yong-Jin Liu](https://scholar.google.com/citations?user=VB1GZgYAAAAJ&hl=en), Defeng Sun, [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/),  “Efficient sparse semismooth Newton methods for the clustered lasso problem”, [**SIAM Journal on Optimization**](https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/) 29 (2019) 2026--2052. 
 
 - [Liang Chen](https://grzy.hnu.edu.cn/site/index/chenliang3), Defeng Sun, [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/),   “Some problems on the Gauss-Seidel iteration method in degenerate cases”, **Journal on Numerical Methods and Computer Applications**, 40 (2019) 98--110 (in Chinese)
 
--[Ying Cui](https://sites.google.com/site/optyingcui/), Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/),  “On the R-superlinear convergence of  the KKT residuals generated by the augmented Lagrangian method for  convex  composite conic programming”, [**Mathematical Programming**](https://link.springer.com/journal/10107) 178 (2019) 381—415.
+- [Ying Cui](https://sites.google.com/site/optyingcui/), Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/),  “On the R-superlinear convergence of  the KKT residuals generated by the augmented Lagrangian method for  convex  composite conic programming”, [**Mathematical Programming**](https://link.springer.com/journal/10107) 178 (2019) 381—415.
 
 - [Xudong Li](https://www.lixudong.info/), Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “A block symmetric Gauss-Seidel decomposition theorem for convex composite quadratic programming and its applications”, [**Mathematical Programming**](https://link.springer.com/journal/10107) 175 (2019) 395--418. arXiv:1703.06629
 
@@ -172,7 +172,7 @@ author_profile: true
 ---
 
 ## 2018
--[Yancheng Yuan](https://www.polyu.edu.hk/ama/people/academic-staff/dr-yuan-yancheng/?sc_lang=en), Defeng Sun and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/),  “An efficient semismooth Newton based algorithm for convex clustering”, **Proceedings of the 35-th International Conference on Machine Learning (ICML)**, Stockholm, Sweden, PMLR 80, 2018.
+- [Yancheng Yuan](https://www.polyu.edu.hk/ama/people/academic-staff/dr-yuan-yancheng/?sc_lang=en), Defeng Sun and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/),  “An efficient semismooth Newton based algorithm for convex clustering”, **Proceedings of the 35-th International Conference on Machine Learning (ICML)**, Stockholm, Sweden, PMLR 80, 2018.
 
 - [Xin Yee Lam](https://www.researchgate.net/profile/Xin-Yee-Lam), [J.S. Marron](https://marron.web.unc.edu/), Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/),  “Fast algorithms for large scale generalized distance weighted discrimination”, [Journal of Computational and Graphical Statistics](https://en.wikipedia.org/wiki/Journal_of_Computational_and_Graphical_Statistics) 27 (2018) 368--379.  arXiv:1604.05473.
 
@@ -184,7 +184,7 @@ author_profile: true
 
 - [Chao Ding](https://www.dingchao.info/), Defeng Sun, [Jie Sun](https://staffportal.curtin.edu.au/staff/profile/view/jie-sun-f50efac3/), and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “Spectral operators of matrices”, [**Mathematical Programming**](https://link.springer.com/journal/10107) 168 (2018) 509--531. [Revised from the first part of https://arxiv.org/abs/1401.2269, January 2014.]
 
--[Ying Cui](https://sites.google.com/site/optyingcui/) and Defeng Sun, “A complete characterization on the robust isolated calmness of the nuclear norm regularized convex optimization problems”,   **Journal of Computational Mathematics** 36(3) (2018) 441--458.
+- [Ying Cui](https://sites.google.com/site/optyingcui/) and Defeng Sun, “A complete characterization on the robust isolated calmness of the nuclear norm regularized convex optimization problems”,   **Journal of Computational Mathematics** 36(3) (2018) 441--458.
 
 - [Xudong Li](https://www.lixudong.info/), Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “A highly efficient semismooth Newton augmented Lagrangian method for solving Lasso problems’’, [**SIAM Journal on Optimization**](https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/) 28 (2018) 433--458.
   [This paper brought Xudong Li the [**Best Paper Prize for Young Researchers in Continuous Optimization**](/files/Certificate_Xudong.JPG) announced in the [ICCOPT 2019](https://iccopt2019.berlin/) held in Berlin, August 3-8, 2019. This is the only prize given in the flagship international conference on continuous optimization held every three years]
@@ -207,12 +207,12 @@ author_profile: true
 ---
 
 ## 2016
--[Ying Cui](https://sites.google.com/site/optyingcui/), [Chenlei Leng](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/leng/), and Defeng Sun, “Sparse estimation of high-dimensional correlation matrices”, **Computational Statistics & Data Analysis** Vol. 93 (2016) 390–403.
+- [Ying Cui](https://sites.google.com/site/optyingcui/), [Chenlei Leng](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/leng/), and Defeng Sun, “Sparse estimation of high-dimensional correlation matrices”, **Computational Statistics & Data Analysis** Vol. 93 (2016) 390–403.
 
 - Defeng Sun, [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), and Liuqin Yang, “An efficient inexact ABCD method for least squares semidefinite programming”, May 2015, [**SIAM Journal on Optimization**](https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/) 26 (2016) 1072--1100. Detailed computational results for over 600 problems tested in the paper.
 
 - [Jin Qi](https://sites.google.com/site/nusjinqi/), [Melvyn Sim](https://bizfaculty.nus.edu.sg/faculty-details/?profId=127), Defeng Sun, and [Xiaoming Yuan](https://www.math.hkbu.edu.hk/~xmyuan), “Preferences for travel time under risk and ambiguity: Implications in path selection and network equilibrium”, September 2010, **Transportation Research Part B** 94 (2016) 264--284.
--[Ying Cui](https://sites.google.com/site/optyingcui/), [Xudong Li](https://www.lixudong.info/), Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “On the convergence properties of a majorized ADMM for linearly constrained convex optimization problems with coupled objective functions”( Dedicated to Professor [Lucien Polak](https://www2.eecs.berkeley.edu/Faculty/Homepages/polak.html) on the occasion of his **85th** birthday), February 2015, [**Journal of Optimization Theory and Applications**](https://link.springer.com/journal/10957) 169 (2016) 1013--1041.
+- [Ying Cui](https://sites.google.com/site/optyingcui/), [Xudong Li](https://www.lixudong.info/), Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “On the convergence properties of a majorized ADMM for linearly constrained convex optimization problems with coupled objective functions”( Dedicated to Professor [Lucien Polak](https://www2.eecs.berkeley.edu/Faculty/Homepages/polak.html) on the occasion of his **85th** birthday), February 2015, [**Journal of Optimization Theory and Applications**](https://link.springer.com/journal/10957) 169 (2016) 1013--1041.
 
 - Min Li, Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “A majorized ADMM with indefinite proximal terms for linearly constrained convex composite optimization”, December 2014, [**SIAM Journal on Optimization**](https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/) 26 (2016) 922--950.
 
