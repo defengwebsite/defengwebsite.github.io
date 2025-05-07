@@ -22,7 +22,7 @@ author_profile: true
 ---
 
 ## Codes under the Matrix Optimization (<span style="color:red">MatOpt</span>) Project
-- [QSDPNAL (version 1.0): a MATLAB software for solving convex quadratic  semidefinite programming (QSDP)](https://www.polyu.edu.hk/ama/profile/dfsun/) ([click here for an introduction on how to use the package](https://blog.nus.edu.sg/mattohkc/softwares/qsdpnal/))  [<span style="color:red">CAUTION</span>: this software is for research purpose. It is neither intended nor designed to be a general purpose software at the moment.] For the details of the software, please check the following papers:
+- [QSDPNAL (version 1.0): a MATLAB software for solving convex quadratic  semidefinite programming (QSDP)](https://github.com/MatOpt/QSDPNAL) ([click here for an introduction on how to use the package](https://blog.nus.edu.sg/mattohkc/softwares/qsdpnal/))  [<span style="color:red">CAUTION</span>: this software is for research purpose. It is neither intended nor designed to be a general purpose software at the moment.] For the details of the software, please check the following papers:
  
 
   [[Xudong Li](https://www.lixudong.info/), Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/),  “[QSDPNAL: A two-phase augmented Lagrangian method for convex quadratic semidefinite programming](https://www.polyu.edu.hk/ama/profile/dfsun/Li_et_al-2018-Mathematical_Programming_Computation.pdf)”, **Mathematical Programming Computation**, 10 (2018) 703--743.]
