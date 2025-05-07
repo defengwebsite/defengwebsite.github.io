@@ -42,9 +42,9 @@ Hung Hom, Kowloon, Hong Kong -->
 
 ## Education
 
-- **BSc (1989)**, **MSc (1992)** both from Department of Mathematics,  Nanjing University, Nanjing
+- **BSc (1989)**, **MSc (1992)** both from Department of Mathematics,  [Nanjing University](https://www.nju.edu.cn/), Nanjing
 
-- **PhD (1995)** from Institute of Applied Mathematics, Chinese Academy of Sciences, Beijing [Supervisor: Professor [Jiye Han (韩继业)](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=155318)]
+- **PhD (1995)** from [Institute of Applied Mathematics, Chinese Academy of Sciences](http://www.amt.ac.cn/), Beijing [Supervisor: Professor [Jiye Han (韩继业)](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=155318)]
 
 
 

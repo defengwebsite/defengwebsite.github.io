@@ -61,7 +61,7 @@ author_profile: true
 
 - [Shenglong Hu](https://scholar.google.com/citations?user=Y_-7Kb8AAAAJ&hl=en), D.F. Sun, and [Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/), [“Quantifying low rank approximations of third order symmetric tensors”](/files/s10107-024-02165-1.pdf), [**Mathematical Programming**](https://link.springer.com/journal/10107) (2025), in print. arXiv:2307.10855 (2023).
 
-- [Jiawang Nie](https://mathweb.ucsd.edu/~njw/), Defeng Sun, [Xindong Tang](https://www.math.hkbu.edu.hk/~xdtang/), and [Min Zhang](https://www.researchgate.net/profile/Min-Zhang-283), [“Solving polynomial variational inequality problems via Lagrange multiplier expressions and Moment-SOS relaxations”](/files/2303.12036v1.pdf), [**Computation al Optimization and Applications**](https://link.springer.com/journal/10589) 90 (2025) 361--394.
+- [Jiawang Nie](https://mathweb.ucsd.edu/~njw/), Defeng Sun, [Xindong Tang](https://www.math.hkbu.edu.hk/~xdtang/), and [Min Zhang](https://www.researchgate.net/profile/Min-Zhang-283), [“Solving polynomial variational inequality problems via Lagrange multiplier expressions and Moment-SOS relaxations”](/files/2303.12036v1.pdf), [**Computational Optimization and Applications**](https://link.springer.com/journal/10589) 90 (2025) 361--394.
 
 - Bo Yang, [Xinyuan Zhao](https://scholar.google.com/citations?user=nFG8lEYAAAAJ&hl=en), [Xudong Li](https://www.lixudong.info/), and D.F. Sun, [“An accelerated proximal alternating direction method of multipliers for optimal decentralized control of uncertain systems”](/files/Jota_Published2024_Dec.pdf), [**Journal of Optimization Theory and Applications**](https://link.springer.com/journal/10957) 204.1 (2025):9.
 
