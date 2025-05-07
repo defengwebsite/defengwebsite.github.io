@@ -180,7 +180,7 @@ author_profile: true
 
 - [Xudong Li](https://www.lixudong.info/), Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/),  [“On efficiently solving the subproblems of a level-set method for fused lasso problems”](/files/FusedLassoSIOPT2018.pdf), [**SIAM Journal on Optimization**](https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/) 28 (2018) 1842--1862. [https://arxiv.org/abs/1512.08872](https://arxiv.org/abs/1512.08872)
 
-- [Deren Han](https://schools.njnu.edu.cn/math/person/deren-han), Defeng Sun, and [Liwei Zhang](http://gs1.dlut.edu.cn/Supervisor/Front/dsxx/new/Default.aspx?WebPageName=zhangliwei), [“Linear rate convergence of the alternating direction method of multipliers for convex composite programming’’](/files/Linear%20Rate%20Convergence%20of%20the%20Alternating%20Direction%20Method%20of_2018_May.pdf), [**Mathematics of Operations Research**](https://pubsonline.informs.org/journal/moor) 43 (2018) 622--637. [Revised from the first part of [arXiv:1508.02134](https://arxiv.org/abs/1508.02134), August 2015.]
+- [Deren Han](https://schools.njnu.edu.cn/math/person/deren-han), Defeng Sun, and [Liwei Zhang](https://faculty.dlut.edu.cn/1992011039/en/index.htm), [“Linear rate convergence of the alternating direction method of multipliers for convex composite programming’’](/files/Linear%20Rate%20Convergence%20of%20the%20Alternating%20Direction%20Method%20of_2018_May.pdf), [**Mathematics of Operations Research**](https://pubsonline.informs.org/journal/moor) 43 (2018) 622--637. [Revised from the first part of [arXiv:1508.02134](https://arxiv.org/abs/1508.02134), August 2015.]
 
 - [Chao Ding](https://www.dingchao.info/), Defeng Sun, [Jie Sun](https://staffportal.curtin.edu.au/staff/profile/view/jie-sun-f50efac3/), and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), [“Spectral operators of matrices”](/files/Spectral%20operators%20of%20matrices_published2018.pdf), [**Mathematical Programming**](https://link.springer.com/journal/10107) 168 (2018) 509--531. [Revised from the first part of [https://arxiv.org/abs/1401.2269](https://arxiv.org/abs/1401.2269), January 2014.]
 
@@ -196,7 +196,7 @@ author_profile: true
 ---
 
 ## 2017
-- [Chao Ding](https://www.dingchao.info/), Defeng Sun, and [Liwei Zhang](http://gs1.dlut.edu.cn/Supervisor/Front/dsxx/new/Default.aspx?WebPageName=zhangliwei), [“Characterization of the robust isolated calmness for a class of conic programming problems”](/files/RobustCalm.pdf), [arXiv:1601.07418](https://arxiv.org/abs/1601.07418). [**SIAM Journal on Optimization**](https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/) 27 (2017) 67--90.
+- [Chao Ding](https://www.dingchao.info/), Defeng Sun, and [Liwei Zhang](https://faculty.dlut.edu.cn/1992011039/en/index.htm), [“Characterization of the robust isolated calmness for a class of conic programming problems”](/files/RobustCalm.pdf), [arXiv:1601.07418](https://arxiv.org/abs/1601.07418). [**SIAM Journal on Optimization**](https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/) 27 (2017) 67--90.
 
 - [Liang Chen](https://grzy.hnu.edu.cn/site/index/chenliang3), Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/),  [“A note on the convergence of ADMM for linearly constrained convex optimization problems”](/files/A%20note%20on%20the%20convergence%20of%20ADMM%20for%20linearly_published.pdf), [arXiv:1507.02051](https://arxiv.org/abs/1507.02051). **Computational Optimization and Applications** 66 (2017) 327--343.  [<span style="color:azure">In this note a comprehensive proof is supplied to clarify many ambiguities/incorrect proofs in the literature</a>].
 
@@ -277,7 +277,7 @@ author_profile: true
 ## 2012
 - Kaifeng Jiang, Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), “An inexact accelerated proximal gradient method for large scale linearly constrained convex SDP”, [iAPG_QSDP.pdf](/files/iAPG_QSDP.pdf) [**SIAM Journal on Optimization**](https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/) 22 (2012) 1042--1064.  [[The algorithm is used in NAG’s nearest correlation library](https://www.nag.co.uk/IndustryArticles/Nearest_Correlation_Matrix.pdf)]
 
-- [Yong-Jin Liu](https://scholar.google.com/citations?user=VB1GZgYAAAAJ&hl=en), Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), [“An implementable proximal point algorithmic framework for nuclear norm minimization”](/files/Liu2012_Article_AnImplementableProximalPointAl.pdf), July 2009, [PDF version Nucnorm_July13.pdf](Nucnorm_July13.pdf); Revised in March 2010, [PDF version Nucnorm-16Mar10.pdf](/files/Nucnorm-16Mar10.pdf); Revised in October 2010, P[DF version Nucnorm-02Oct10.pdf](/files/Nucnorm-02Oct10.pdf); [**Mathematical Programming**](https://link.springer.com/journal/10107) 133 (2012) 399-436. See the "MATLAB Codes" section for codes in Matlab.
+- [Yong-Jin Liu](https://scholar.google.com/citations?user=VB1GZgYAAAAJ&hl=en), Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/), [“An implementable proximal point algorithmic framework for nuclear norm minimization”](/files/Liu2012_Article_AnImplementableProximalPointAl.pdf), July 2009, [PDF version Nucnorm_July13.pdf](/files/Nucnorm_July13.pdf); Revised in March 2010, [PDF version Nucnorm-16Mar10.pdf](/files/Nucnorm-16Mar10.pdf); Revised in October 2010, [PDF version Nucnorm-02Oct10.pdf](/files/Nucnorm-02Oct10.pdf); [**Mathematical Programming**](https://link.springer.com/journal/10107) 133 (2012) 399-436. See the "MATLAB Codes" section for codes in Matlab.
 
 **Theses of Students:**
 - “Numerical Algorithms for a Class of Matrix Norm Approximation Problems”, [PDF version Chen Caihua_Thesis_final.pdf](/files/Thesis_Caihua.pdf) (**PhD thesis of former visiting student Caihua Chen from Nanjing University**) June 2012.
@@ -307,7 +307,7 @@ author_profile: true
 - Yan Gao and Defeng Sun, “Calibrating least squares covariance matrix problems with equality and inequality constraints”, [PDF version CaliMat.pdf](/files/CaliMat.pdf); **SIAM Journal on Matrix Analysis and Applications**31 (2009) 1432--1457. See the "MATLAB Codes" section for codes in Matlab.
 
 **Theses of Students:**
-- “A Semismooth Newton-CG Augmented Lagrangian Method for Large Scale Linear and Convex Quadratic SDPs” [PDF version main_xyz.pdf](/files/main_xyz.pdf) (**PhD thesis of [ZHAO Xinyuan](/files/https://scholar.google.com/citations?user=nFG8lEYAAAAJ&hl=en)**) August 2009. [See the "MATLAB Codes" section for the software for solving linear SDPs.]
+- “A Semismooth Newton-CG Augmented Lagrangian Method for Large Scale Linear and Convex Quadratic SDPs” [PDF version main_xyz.pdf](/files/main_xyz.pdf) (**PhD thesis of [ZHAO Xinyuan](https://scholar.google.com/citations?user=nFG8lEYAAAAJ&hl=en)**) August 2009. [See the "MATLAB Codes" section for the software for solving linear SDPs.]
 
 - “A Study on Nonsymmetric Matrix-Valued Functions” [PDF version Main_YZ.pdf](/files/Main_YZ.pdf) (**Master thesis of YANG Zhe**) August 2009.
 
@@ -322,7 +322,7 @@ author_profile: true
 
 - Defeng Sun and [Jie Sun](https://staffportal.curtin.edu.au/staff/profile/view/jie-sun-f50efac3/), “Loewner's operator and spectral functions in Euclidean Jordan algebras”. [Final PDF version MOR_SS4.pdf](/files/MOR_SS4.pdf) [**Mathematics of Operations Research**](https://pubsonline.informs.org/journal/moor) 33 (2008) 421--445.
 
-- Defeng Sun, [Jie Sun](https://staffportal.curtin.edu.au/staff/profile/view/jie-sun-f50efac3/), and [Liwei Zhang](http://gs1.dlut.edu.cn/Supervisor/Front/dsxx/new/Default.aspx?WebPageName=zhangliwei), [“The rate of convergence of the augmented Lagrangian method for nonlinear semidefinite programming”](/files/The%20rate%20of%20convergence%20of%20the%20augmented%20Lagrangian2008.pdf). [**Mathematical Programming**](https://link.springer.com/journal/10107) 114 (2008) 349--391.
+- Defeng Sun, [Jie Sun](https://staffportal.curtin.edu.au/staff/profile/view/jie-sun-f50efac3/), and [Liwei Zhang](https://faculty.dlut.edu.cn/1992011039/en/index.htm), [“The rate of convergence of the augmented Lagrangian method for nonlinear semidefinite programming”](/files/The%20rate%20of%20convergence%20of%20the%20augmented%20Lagrangian2008.pdf). [**Mathematical Programming**](https://link.springer.com/journal/10107) 114 (2008) 349--391.
 
 ---
 
@@ -339,12 +339,12 @@ author_profile: true
 
 - [Houduo Qi](https://www.polyu.edu.hk/ama/profile/hdqi/hdqi.html) and Defeng Sun, [“A quadratically convergent Newton method for computing the nearest correlation matrix”](/files/A%20QUADRATICALLY%20CONVERGENT%20NEWTON%20METHOD%20FOR_published.pdf), **SIAM Journal on Matrix Analysis and Applications** 28 (2006) 360--385. <a href="/files/CorrelationMatrix.m" download>Code in Matlab</a>  [[The algorithm is used in NAG’s nearest correlation library](https://www.nag.co.uk/IndustryArticles/Nearest_Correlation_Matrix.pdf)]
 
-- Zheng-Hai Huang, Defeng Sun and [Gongyun Zhao](http://ww1.math.nus.edu.sg/staffCV/matzgy.pdf), “A smoothing Newton-type algorithm of stronger convergence for the quadratically constrained convex quadratic programming”, [Revised PDF version HSZ_Re.pdf](/files/HSZ_Re.pdf) **Computational Optimization and Applications** 35 (2006) 197--237.
+- Zheng-Hai Huang, Defeng Sun and [Gongyun Zhao](https://discovery.nus.edu.sg/449-gongyun-zhao/publications), “A smoothing Newton-type algorithm of stronger convergence for the quadratically constrained convex quadratic programming”, [Revised PDF version HSZ_Re.pdf](/files/HSZ_Re.pdf) **Computational Optimization and Applications** 35 (2006) 197--237.
 
 ---
 
 ## 2005
-- Fanwen Meng, D.F. Sun and [Gongyun Zhao](http://ww1.math.nus.edu.sg/staffCV/matzgy.pdf), [“Semismoothness of solutions to generalized equations and the Moreau-Yosida regularization”](/files/Meng2005_Article_SemismoothnessOfSolutionsToGen.pdf), [**Mathematical Programming**](https://link.springer.com/journal/10107) 104 (2005) 561--581.
+- Fanwen Meng, D.F. Sun and [Gongyun Zhao](https://discovery.nus.edu.sg/449-gongyun-zhao/publications), [“Semismoothness of solutions to generalized equations and the Moreau-Yosida regularization”](/files/Meng2005_Article_SemismoothnessOfSolutionsToGen.pdf), [**Mathematical Programming**](https://link.springer.com/journal/10107) 104 (2005) 561--581.
 
 - D.F. Sun and [Jie Sun](https://staffportal.curtin.edu.au/staff/profile/view/jie-sun-f50efac3/), [“Nonsmooth Matrix Valued Functions Defined by Singular Values”](/files/Sun-Sun2005_Article_StrongSemismoothnessOfTheFisch.pdf), December 2002. [PDF version SS3.pdf](/files/SS3.pdf). Revised with the new title as “Strong semismoothness of Fischer-Burmeister SDC and SOC functions”, [Final PDF version SS3_Rev.pdf](/files/SS3_Rev.pdf) [**Mathematical Programming**](https://link.springer.com/journal/10107) 103 (2005) 575--581.
 
