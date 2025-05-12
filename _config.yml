@@ -13,7 +13,7 @@ title                    : "Defeng's Academic Page" # the title of your site, e.
 title_separator          : "-"
 name                     : &name "Defeng Sun" # the name of your site, e.g. "Jiawei LU"
 description              : &description "Academic Page" # a short description of your site, e.g. "A website about my research and teaching"
-url                      : https://defengwebsite.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://www.polyu.edu.hk/ama/profile/dfsun/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "defengwebsite/defengwebsite.github.io"
 

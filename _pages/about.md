@@ -28,7 +28,7 @@ Hung Hom, Kowloon, Hong Kong -->
 - **Phone**: +852 2766 6935
 - **Fax**: +852 2362 9045
 - **Email**: [defeng.sun@polyu.edu.hk](mailto:defeng.sun@polyu.edu.hk)  
-- **Web**: [Defeng's website](https://defengwebsite.github.io/) 
+- **Web**: [Defeng's website](https://www.polyu.edu.hk/ama/profile/dfsun/) 
 
 <!-- ## Contact
 
