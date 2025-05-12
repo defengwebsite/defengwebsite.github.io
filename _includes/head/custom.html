@@ -2,7 +2,9 @@
 
 
 <!-- ✅ Load Academicons font early -->
-<link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
+<!-- Preload fonts early -->
+<link rel="preload" href="/assets/fonts/academicons.woff" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="stylesheet" href="/assets/css/academicons.css">
 <!-- start custom head snippets -->
 
 <!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
@@ -13,7 +15,7 @@
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
-<link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
+<!-- <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/> -->
 
 
 <!-- Support for MatJax -->
