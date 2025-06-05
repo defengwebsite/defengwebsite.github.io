@@ -9,6 +9,12 @@
 
 main:
 
+  - title: "Publications"
+    url: /publications_1/
+
+  - title: "Research Highlights"
+    url: /highlights/
+
   - title: "Professional Activities"
     url: /professional-activities/
 
@@ -21,8 +27,7 @@ main:
   - title: "Talks"
     url: /talks_1/    
 
-  - title: "Publications"
-    url: /publications_1/
+
     
   #- title: "Technical Reports"
   #  url: /Technical Reports/    

@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Defeng's Academic Page" # the title of your site, e.g. "My Academic Page"
+title                    : "Homepage" # the title of your site, e.g. "My Academic Page"
 title_separator          : "-"
 name                     : &name "Defeng Sun" # the name of your site, e.g. "Jiawei LU"
 description              : &description "Academic Page" # a short description of your site, e.g. "A website about my research and teaching"
@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/?query=sun%2C+defeng&searchtype=all&abstracts=show&order=-announced_date_first&size=50"
   googlescholar    : "https://scholar.google.com/citations?user=QdIzNxgAAAAJ&hl=en" # URL - Update with the correct link to your profile
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0481-272X"
@@ -41,6 +41,7 @@ author:
   pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site

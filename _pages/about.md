@@ -1,18 +1,18 @@
 ---
 permalink: /
-title: "Welcome to Defeng Sun's Academic Homepage"
+title: ""
 author_profile: true
 ---
 
 ## Defeng Sun (孙德锋)
 
-**Chair Professor**
+**Chair Professor**   
+**Fellow: SIAM, CSIAM, ORSC**
 
-Department of Applied Mathematics  
+Department of Applied Mathematics 
 The Hong Kong Polytechnic University   
-Hung Hom, Kowloon, Hong Kong  
-Fellow:
-SIAM, CSIAM, ORSC
+Hung Hom, Kowloon, Hong Kong
+
 <!-- **Student**  
 Department of Applied Mathematics  
 The Hong Kong Polytechnic University  
