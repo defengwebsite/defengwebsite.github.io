@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Sensitivity Analysis in Nonlinear Semidefinite Programming"
-permalink: /Highlights/Sensitivity-Analysis/
+permalink: /highlights/Sensitivity-Analysis/
 author_profile: true
 ---
 
