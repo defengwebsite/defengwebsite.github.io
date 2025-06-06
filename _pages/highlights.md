@@ -1,27 +1,27 @@
 ---
 layout: single
 title: "Research Highlights"
-permalink: /highlights/
+permalink: /Highlights/
 author_profile: true
 ---
 
-- [Sensitivity Analysis in Nonlinear Semidefinite Programming](highlights/Sensitivity-Analysis)
+- [Sensitivity Analysis in Nonlinear Semidefinite Programming](Highlights/Sensitivity-Analysis)
 
-- [Augmented Lagrangian Methods for Solving Composite Conic Programming](highlights/Augmented-Lagrangian)
+- [Augmented Lagrangian Methods for Solving Composite Conic Programming](Highlights/Augmented-Lagrangian)
 
-- [Smoothing Newton Methods with Global and Local Superlinear Convergence](highlights/Smoothing-Newton)
+- [Smoothing Newton Methods with Global and Local Superlinear Convergence](Highlights/Smoothing-Newton)
 
-- [Computations of the limiting (Mordukhovich) coderivative of the metric projection onto non-polyhedral convexs sets](highlights/limiting-coderivative)
+- [Computations of the limiting (Mordukhovich) coderivative of the metric projection onto non-polyhedral convexs sets](Highlights/limiting-coderivative)
 
-- [Second Order Methods for Solving Lasso Problems and Their Extensions](highlights/Second-Order-Methods)
+- [Second Order Methods for Solving Lasso Problems and Their Extensions](Highlights/Second-Order-Methods)
 
-- [A Restricted Wolfe Dual for Convex Quadratic Programming](highlights/Restricted Wolfe)
+- [A Restricted Wolfe Dual for Convex Quadratic Programming](Highlights/Restricted Wolfe)
 
-- [A Symmetric Gauss-Seidel Decomposition Theorem for Convex Composite Quadratic Functions](highlights/Symmetric-Gauss-Seidel)
+- [A Symmetric Gauss-Seidel Decomposition Theorem for Convex Composite Quadratic Functions](Highlights/Symmetric-Gauss-Seidel)
 
-- [Halpern Peaceman-Rachford (HPR) Acceleration Methods](highlights/HPR)
+- [Halpern Peaceman-Rachford (HPR) Acceleration Methods](Highlights/HPR)
 
-- [Extragradient Methods for Monotone  Variational Inequalities under Continuity](highlights/Extragradient-Methods)
+- [Extragradient Methods for Monotone  Variational Inequalities under Continuity](Highlights/Extragradient-Methods)
 
 
   <!-- [**<span style="color:blue">Sensitivity Analysis in Nonlinear Semidefinite Programming</span>**]  [**<span style="color:black">Augmented Lagrangian Methods for Solving Composite Conic Programming</span>**] [**<span style="color:blue">Smoothing Newton Methods with Global and Local Superlinear Convergence</span>**] [**<span style="color:black">Computations of the limiting (Mordukhovich) coderivative of the metric projection onto non-polyhedral convexs sets</span>**] [**<span style="color:blue">Second Order Methods for Solving Lasso Problems and Their Extensions</span>**]
