@@ -1,0 +1,9 @@
+---
+layout: single
+title: "Halpern Peaceman-Rachford (HPR) Acceleration Methods"
+permalink: /Highlights/HPR/
+author_profile: true
+---
+
+See the implementation of the HPR method for solving linear programming [Kaihuang Chen, Defeng Sun, [Yancheng Yuan](https://www.polyu.edu.hk/ama/people/academic-staff/dr-yuan-yancheng/?sc_lang=en), Guojun Zhang, and [Xinyuan Zhao](https://scholar.google.com/citations?user=nFG8lEYAAAAJ&hl=en), “[**HPR-LP: An implementation of an HPR method for solving linear programming**]({{ '/files/2408.12179v2.pdf' | relative_url }})”, arXiv:2408.12179 (August 2024)]  and the theoretical foundation of the HPR method [Defeng Sun, [Yancheng Yuan](https://www.polyu.edu.hk/ama/people/academic-staff/dr-yuan-yancheng/?sc_lang=en), Guojun Zhang, and [Xinyuan Zhao](https://scholar.google.com/citations?user=nFG8lEYAAAAJ&hl=en), “[Accelerating preconditioned ADMM via degenerate proximal point mappings]({{ '/files/24m1650053.pdf' | relative_url }})”, [SIAM Journal on Optimization](https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/) 35:2 (2025) 1165–1193]. For solving optimal transport problems, please refer to
+[Guojun Zhang, Zhexuan Gu, [Yancheng Yuan](https://www.polyu.edu.hk/ama/people/academic-staff/dr-yuan-yancheng/?sc_lang=en), and Defeng Sun, “[HOT: An Efficient Halpern Accelerating Algorithm for Optimal Transport Problems]({{ '/files/HOT-ArXiv-Apr-16-2025.pdf' | relative_url }})”, [IEEE Transactions on Pattern Analysis and Machine Intelligence (2025)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), in print. arXiv:2408.00598  (August 2024)] and [Guojun Zhang, [Yancheng Yuan](https://www.polyu.edu.hk/ama/people/academic-staff/dr-yuan-yancheng/?sc_lang=en), and Defeng Sun, “[An Efficient HPR Algorithm for the Wasserstein Barycenter Problem with $ O ({Dim (P)}/\varepsilon) $ Computational Complexity]({{ '/files/2211.14881v1.pdf' | relative_url }})”.  arXiv:2211.14881 (2022).]

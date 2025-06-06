@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Augmented Lagrangian Methods for Solving Composite Conic Programming"
-permalink: /highlights/Augmented-Lagrangian/
+permalink: /Highlights/Augmented-Lagrangian/
 author_profile: true
 ---
 
