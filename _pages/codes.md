@@ -5,9 +5,17 @@ permalink: /Codes/
 author_profile: true
 ---
 
-Welcome! This page serves as a code directory. Click on each item to view detailed descriptions, download links, and related publications.
+
 
 - [Codes for nearest (covariance) correlation matrix problems](/Codes/correlation-matrix/)  
+
+- [Codes under the Matrix Optimization (<span style="color:red">MatOpt</span>) Project](/Codes/Matrix-Optimization/)  
+
+- [Codes under the Statistical Optimization (<span style="color:red">StaOpt</span>) Project](/Codes/Statistical-Optimization/)  
+
+- [Codes for rank constrained problems](/Codes/rank-constrained/)  
+
+- [Codes for other problems](/Codes/other/) 
 
 
 <!-- ## Codes for nearest (covariance) correlation matrix problems
