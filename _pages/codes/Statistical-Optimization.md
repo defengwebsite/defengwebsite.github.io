@@ -11,4 +11,4 @@ author_profile: true
 
   [Peipei Tang, Chengjing Wang, Defeng Sun, and [Kim Chuan Toh](https://blog.nus.edu.sg/mattohkc/),  “[A sparse semismooth Newton based proximal majorization-minimization algorithm for nonconvex square-root-loss regression problems](../files/19-247_Published.pdf)”, [Journal of Machine Learning Research](https://jmlr.org/papers/v21/19-247.html) 21(226):1--38, 2020.]
 
-- <a href="../files/ConvexClustering.zip" download>**ConvexClustering**</a>: [a MATLAB package for convex clustering](https://blog.nus.edu.sg/mattohkc/softwares/convexclustering/) [last updated in June 2021]. [See the introduction on how to use it](https://blog.nus.edu.sg/mattohkc/softwares/convexclustering/).
+- <a href="{{ '/files/ConvexClustering.zip' | relative_url }}" download>**ConvexClustering**</a>: [a MATLAB package for convex clustering](https://blog.nus.edu.sg/mattohkc/softwares/convexclustering/) [last updated in June 2021]. [See the introduction on how to use it](https://blog.nus.edu.sg/mattohkc/softwares/convexclustering/).
