@@ -7,6 +7,8 @@ author_profile: true
 
 Welcome! This page serves as a code directory. Click on each item to view detailed descriptions, download links, and related publications.
 
+- [Correlation Matrix Solver](/Codes/correlation-matrix/)  
+Matlab, Python, R codes for solving nearest correlation matrix problems. Includes variants with constraints and calibrations.
 
 
 <!-- ## Codes for nearest (covariance) correlation matrix problems
