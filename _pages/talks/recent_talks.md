@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Some recent talks"
-permalink: /talks/rencent_talks/
+permalink: /talks/recent_talks/
 author_profile: true
 ---
 
