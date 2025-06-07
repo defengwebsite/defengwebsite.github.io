@@ -41,7 +41,7 @@ author:
   pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
-
+  cv               : "/files/CV_DefengSun.pdf"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
