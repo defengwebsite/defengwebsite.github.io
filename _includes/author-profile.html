@@ -68,9 +68,12 @@
 
       {% if author.cv %}
       <li>
-        <i class="fas fa-file-alt"></i><a href="{{ author.cv }}" target="_blank">CV</a>
+        <a href="{{ author.cv }}">
+          <i class="fas fa-fw fa-file-alt icon-pad-right" aria-hidden="true"></i>CV
+        </a>
       </li>
       {% endif %}
+    
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
